@@ -1,6 +1,7 @@
 # Overview
 
 # Data
+- Monthly surveys following the current protocol began in 2019 at Campus Lagoon
 - See eScholarship data description here: https://escholarship.org/uc/item/47q7s0gb 
 - Individual data files are saved to ArcGIS Online: https://ucsb.maps.arcgis.com/home/group.html?id=5196673ce5ea4d68882435ddc2f8ae3f#overview
 
@@ -32,3 +33,4 @@
 - R auk package for querying/downloading full eBird data set: https://cornelllabofornithology.github.io/auk/
 - The eBird hotspot is "UCSB North Campus Open Space (formerly Ocean Meadows Golf Course)": https://ebird.org/hotspot/L820867
 - Birdview is a third-party web app for exploring/visualizing eBird data: https://s3.us-west-1.amazonaws.com/membot.com/BirdView.html
+
