@@ -1,10 +1,14 @@
 library(dplyr)
-library(plyr)
+#library(plyr)
 library(ggplot2)
-library(stats)
+#library(stats)
 library(forecast)
+
+
 setwd("/Users/.../Desktop") #set location of csv
-bird <- read.csv("bird_data.csv", header=TRUE,)
+bird <- read.csv("Emma_Patel_R_code/bird_data.csv", header=TRUE,)
+
+#create vectors of bird abundance from columns
 north <- bird[,7]
 lagoon <- bird[,12]
 west_lagoon <- bird[,18]
@@ -16,21 +20,45 @@ totals <- bird[,41]
 date <- bird$Date
 
 #North Margin Zone
+#summarize vector by 
 northzone <- aggregate(north, FUN="sum",by=list(as.Date(date, "%d-%b-%y")))
+
+#vector of date
 day <- northzone$Group.1
+
+#vector of total counts
 total <- northzone$x
 mean(total)
+
+#variance
 var(total)
+
+#plot scatterplot with day as x asis, y as total
 plot(day,total)
+
+#plot time series object
 plot.ts(total, frequency = 12, start=c(1996,9), ylab="Number of Birds")
+#add mean line for overall data set
 abline(h=mean(total))
+
+#check autocorrelation with lag of up to 20
 acf <- acf(total, lag=20, type="correlation",plot=T)
 pacf <- pacf(total,lag=20, plot=T)
+
+#histogram of counts
 hist(total)
+
+#calculated lagged differences
 northdiff <- diff(total,differences=1)
+
+#plot lagged diffs
 plot.ts(northdiff)
 var(northdiff)
+
+#from forecast package: Fit best ARIMA model to univariate time series
 fit <- auto.arima(total)
+
+
 fc <- forecast(fit, h=12)
 plot(fc)
 
