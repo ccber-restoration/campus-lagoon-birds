@@ -1,0 +1,210 @@
+﻿OBJECTID,Species,Count,Repeat Observation,Substrate,Sex,Breeding Activity,Observation Notes,Water Level,Observers,Starting Time,Ending Time,Starting Temp (F),Starting % Cloud Cover,Starting Cloud Height,Starting Wind Speed,Starting Wind Direction,Starting Rain,Ending Temp (F),Ending % Cloud Cover,Ending Cloud Height,Ending Wind Speed,Ending Wind Direction,Ending Rain,Weather Note,GlobalID,CreationDate,Creator,EditDate,Editor,x,y
+1,Black-necked Stilt,1,No,,,,,,,,,,,,,,,,,,,,,,1bdb1587-1d82-4ff4-9568-d1faa0e4fa8c,6/22/21 13:52,ccber_user,6/22/21 13:52,ccber_user,-119.8492889,34.41127839
+2,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,2905da2a-4b1b-4de9-8687-46e34d5808e8,6/22/21 13:54,ccber_user,6/22/21 13:54,ccber_user,-119.8493743,34.41144723
+3,Northern Rough-winged Swallow,1,No,,,,,,,,,,,,,,,,,,,,,,ca9b0c55-cf44-4159-b97b-74d9fcbe0d30,6/22/21 13:54,ccber_user,6/22/21 13:54,ccber_user,-119.8493254,34.41151023
+4,Cliff Swallow,2,No,Building,,Nest Building,,,,,,,,,,,,,,,,,,,4462a2ce-76a8-4399-bd62-e77ae63e3d50,6/22/21 13:55,ccber_user,6/22/21 13:55,ccber_user,-119.849642,34.41164051
+5,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,012908f8-2df4-4eff-80d0-7f1ee524e0a9,6/22/21 13:56,ccber_user,6/22/21 13:56,ccber_user,-119.8492428,34.41165835
+6,Willet,1,No,,,,,,,,,,,,,,,,,,,,,,8f08b28d-d4c0-4562-a3cb-3822c5f49272,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8503144,34.41115019
+7,Killdeer,1,No,,,,,,,,,,,,,,,,,,,,,,02bbe8d2-430c-490d-bd11-40cf97cbe8c5,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8503399,34.41113748
+8,Black-necked Stilt,2,No,,,,,,,,,,,,,,,,,,,,,,0f80b15a-fbd0-4eb0-9771-033b668adf2e,6/22/21 13:57,ccber_user,6/22/21 14:05,ccber_user,-119.8502959,34.4111338
+9,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,e89a86c8-0fdc-41d6-8988-e1993f7e0cfe,6/22/21 13:58,ccber_user,6/22/21 13:58,ccber_user,-119.8503806,34.41111526
+10,Black Phoebe,2,No,Other,,,flying into storm drain,,,,,,,,,,,,,,,,,,fda7e136-91d5-4d47-b3c0-64cca579d7d7,6/22/21 13:59,ccber_user,6/22/21 13:59,ccber_user,-119.8501893,34.41162134
+11,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,e9b83909-6620-4cc7-8833-383d9447268e,6/22/21 14:02,ccber_user,6/22/21 14:02,ccber_user,-119.8503398,34.41142294
+12,Great Blue Heron,1,No,,,,,,,,,,,,,,,,,,,,,,f3fd9827-8e3f-45be-825f-2b1c635ff83d,6/22/21 14:03,ccber_user,6/22/21 14:03,ccber_user,-119.8495197,34.40947596
+13,Gadwall,3,No,,,,,,,,,,,,,,,,,,,,,,4e3332fd-4e84-4a39-aaad-e558b9112625,6/22/21 14:04,ccber_user,6/22/21 14:04,ccber_user,-119.8499009,34.41062477
+14,American Crow,1,No,Air,,,,,,,,,,,,,,,,,,,,,c63f8301-d5d0-48db-9901-aa18a8ed2c50,6/22/21 14:07,ccber_user,6/22/21 14:07,ccber_user,-119.8502041,34.41082023
+15,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,3dd7a8e2-b8be-4904-9cb7-7fb4325f5cdb,6/22/21 14:09,ccber_user,6/22/21 14:09,ccber_user,-119.8511633,34.41067947
+16,Great Blue Heron,2,No,Air,,,,,,,,,,,,,,,,,,,,,5bf2e595-f46f-4457-bba9-da9a7d7eedda,6/22/21 14:11,ccber_user,6/22/21 14:13,ccber_user,-119.8500945,34.41060738
+17,American Crow,5,No,,,,,,,,,,,,,,,,,,,,,,f2638c48-64f7-4b36-8901-e7f955abe2b3,6/22/21 14:12,ccber_user,6/22/21 14:12,ccber_user,-119.8498683,34.4090076
+18,House Finch,3,No,,,,,,,,,,,,,,,,,,,,,,e32e14b6-dd7a-480d-99a1-1128fea0e949,6/22/21 14:13,ccber_user,6/22/21 14:13,ccber_user,-119.850701,34.41041201
+19,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,38fe6d85-bd01-4b36-82b4-18fb346fbaaa,6/22/21 14:14,ccber_user,6/22/21 14:14,ccber_user,-119.8506055,34.41021009
+20,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,3466ab17-69d0-4dbe-8706-2da343134567,6/22/21 14:15,ccber_user,6/22/21 14:15,ccber_user,-119.8493407,34.40944498
+21,California Thrasher,1,No,,,,,,,,,,,,,,,,,,,,,,32b60479-8d89-428a-8041-0d077d4acd3c,6/22/21 14:17,ccber_user,6/22/21 14:17,ccber_user,-119.850786,34.40983078
+22,Cliff Swallow,1,No,Air,,,,,,,,,,,,,,,,,,,,,c9813abf-6b92-413f-9d5d-c8b277eb3da8,6/22/21 14:18,ccber_user,6/22/21 14:18,ccber_user,-119.850523,34.40994028
+23,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,b3b2c110-1e83-4457-b2f4-a98c403f15fe,6/22/21 14:18,ccber_user,6/22/21 14:18,ccber_user,-119.850673,34.41006319
+24,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,e9ad5b59-66ac-4a44-b0f7-4559ddb72253,6/22/21 14:21,ccber_user,6/22/21 14:21,ccber_user,-119.8504118,34.40962877
+25,Red-tailed Hawk,1,No,,,,,,,,,,,,,,,,,,,,,,03403cc1-e3ef-46a8-b6a8-933a856954c1,6/22/21 14:22,ccber_user,6/22/21 14:22,ccber_user,-119.8505734,34.40877835
+26,Mallard,3,No,,,,,,,,,,,,,,,,,,,,,,82ebf05b-cc48-46b2-a8cc-663e19dac896,6/22/21 14:24,ccber_user,6/22/21 14:24,ccber_user,-119.8501608,34.40957804
+27,Great Blue Heron,1,Yes,,,,,,,,,,,,,,,,,,,,,,5ed947c7-1162-4f30-8040-e1cda825e2f2,6/22/21 14:26,ccber_user,6/22/21 14:26,ccber_user,-119.8506218,34.40905181
+28,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,27191e7a-d6c6-456d-9969-0c71ca116633,6/22/21 14:30,ccber_user,6/22/21 14:30,ccber_user,-119.8507524,34.40904643
+29,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,0b81114f-5359-4dbb-9055-314d619736e0,6/22/21 14:32,ccber_user,6/22/21 14:32,ccber_user,-119.8504955,34.40829119
+30,Cliff Swallow,3,No,,,,,,,,,,,,,,,,,,,,,,d8a39e09-1394-40e6-8a8f-1535402ae5c8,6/22/21 14:33,ccber_user,6/22/21 14:33,ccber_user,-119.8502835,34.40812675
+31,House Finch,5,No,,,,,,,,,,,,,,,,,,,,,,02308ace-6a89-4bba-8807-8152b27d92be,6/22/21 14:35,ccber_user,6/22/21 14:35,ccber_user,-119.850078,34.40734908
+32,Cliff Swallow,10,No,,,,,,,,,,,,,,,,,,,,,,8611ef15-c684-4c59-baf1-a783ab16f1c1,6/22/21 14:36,ccber_user,6/22/21 14:36,ccber_user,-119.8501839,34.40758682
+33,House Finch,15,No,,,,,,,,,,,,,,,,,,,,,,b497d627-ebd7-4dd7-aaec-09cf671eb89d,6/22/21 14:39,ccber_user,6/22/21 14:39,ccber_user,-119.8497829,34.40722484
+34,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,7f717aa6-c4e6-47b9-878b-a3678fb3c0e4,6/22/21 14:45,ccber_user,6/22/21 14:45,ccber_user,-119.8497766,34.40776137
+35,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,98c78113-6c39-4210-8252-1b4327be0b05,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8495176,34.40837722
+36,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,348c586f-d263-40f9-85e2-a80435a5d408,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8493985,34.40815831
+37,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,b6a701cf-17a6-49f6-b0a5-25dcf0f720e6,6/22/21 14:51,ccber_user,6/22/21 14:51,ccber_user,-119.8490513,34.40816659
+38,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,bde6b6f5-b858-4f35-a910-b46e47a84df9,6/22/21 14:56,ccber_user,6/22/21 14:56,ccber_user,-119.8489036,34.40829212
+39,Tree Swallow,2,No,,,Feeding/Begging,,,,,,,,,,,,,,,,,,,13ad6b96-6096-4231-b3e8-ff37f8ce307d,6/22/21 14:58,ccber_user,6/22/21 15:01,ccber_user,-119.8492216,34.40830223
+40,House Finch,1,No,,,,,,,,,,,,,,,,,,,,,,ce5dc745-e41f-4bf9-8c26-d65d8f8e517c,6/22/21 15:06,ccber_user,6/22/21 15:06,ccber_user,-119.8491933,34.408547
+41,Northern Rough-winged Swallow,3,No,,,Feeding/Begging,,,,,,,,,,,,,,,,,,,2576f933-8eba-435a-ba5b-37b6e73b0fe3,6/22/21 15:07,ccber_user,6/22/21 15:10,ccber_user,-119.849368,34.40865125
+42,Pied-billed Grebe,1,No,,,,,,,,,,,,,,,,,,,,,,147acd1c-cabc-4428-9b4c-73a1dbbdf111,6/22/21 15:15,ccber_user,6/22/21 15:15,ccber_user,-119.8498352,34.41019966
+43,Black-necked Stilt,10,No,,,,,,,,,,,,,,,,,,,,,,37fd06dc-bafc-490c-8122-3a150a65ca5b,6/22/21 15:16,ccber_user,6/22/21 15:16,ccber_user,-119.8502681,34.41119291
+44,Eurasian Collared-Dove,1,No,,,,,,,,,,,,,,,,,,,,,,1f5bcc07-90be-4083-9284-acd4b58c6b08,6/22/21 15:21,ccber_user,6/22/21 15:21,ccber_user,-119.8487765,34.4092887
+45,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,b4b8282e-3924-4c73-acca-8ba8c80ae359,6/22/21 15:21,ccber_user,6/22/21 15:21,ccber_user,-119.8487745,34.40928272
+46,California Towhee,2,No,,,,,,,,,,,,,,,,,,,,,,828755b6-5ee6-425c-bf68-8bc8691e8e4d,6/22/21 15:23,ccber_user,6/22/21 15:23,ccber_user,-119.8486638,34.4090724
+47,Mourning Dove,1,No,,,,,,,,,,,,,,,,,,,,,,d5a50711-3ca5-4206-92ac-79bc98114224,6/22/21 15:23,ccber_user,6/22/21 15:23,ccber_user,-119.8487521,34.40907674
+48,Downy Woodpecker,4,No,,,Feeding/Begging,,,,,,,,,,,,,,,,,,,2e6b4262-963f-4908-a3e4-ec036124d05d,6/22/21 15:24,ccber_user,6/22/21 15:24,ccber_user,-119.8485761,34.40904753
+49,Rufous/Allen's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,8b03ef0a-9724-429f-ad55-e781a1556f60,6/22/21 15:26,ccber_user,6/22/21 15:26,ccber_user,-119.8486025,34.40895837
+50,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,d150dc4a-351b-4873-90ba-11c75e103191,6/22/21 15:26,ccber_user,6/22/21 15:26,ccber_user,-119.8485922,34.40891852
+51,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,4776ade5-51bd-4b73-b6e4-3f5b0d9eb836,6/22/21 15:27,ccber_user,6/22/21 15:27,ccber_user,-119.8484817,34.408894
+52,Oak Titmouse,2,No,,,,,,,,,,,,,,,,,,,,,,23c7c6ea-21ca-4344-bb92-6a93b6391a42,6/22/21 15:27,ccber_user,6/22/21 15:27,ccber_user,-119.848507,34.40872775
+53,Cliff Swallow,15,No,,,,,,,,,,,,,,,,,,,,,,72a21ada-ea3c-4f35-8a89-cee08f566316,6/22/21 15:28,ccber_user,6/22/21 15:37,ccber_user,-119.8484303,34.4086328
+54,Bullock's Oriole,2,No,,,,,,,,,,,,,,,,,,,,,,912df9a5-3b0d-4d4b-b3dc-098aea9b5510,6/22/21 15:29,ccber_user,6/22/21 15:30,ccber_user,-119.8482242,34.40843315
+55,California Scrub-Jay,3,No,,,Feeding/Begging,feeding at yellow face bumble bee nest,,,,,,,,,,,,,,,,,,1b7efdf2-ec71-46af-8fe6-58cd9e09adda,6/22/21 15:30,ccber_user,6/22/21 15:35,ccber_user,-119.8481459,34.40844013
+56,Hooded Oriole,,No,,,,,,,,,,,,,,,,,,,,,,9e4571fb-49d4-422f-8689-22bfe92371be,6/22/21 15:32,ccber_user,6/22/21 15:32,ccber_user,-119.8480714,34.40829438
+57,Great Egret,1,No,,,,,,,,,,,,,,,,,,,,,,8bb6c667-e0c6-4429-9d75-dc986cd5f0a5,6/22/21 13:46,ccber_user,6/22/21 13:46,ccber_user,-119.8479447,34.41054341
+58,American Crow,3,No,,,,,,,,,,,,,,,,,,,,,,7fde8dd3-1641-4e4a-9540-c7f806285b9b,6/22/21 13:48,ccber_user,6/22/21 13:51,ccber_user,-119.8475237,34.4107459
+59,House Finch,1,No,,,,,,,,,,,,,,,,,,,,,,3f83762d-534a-4d58-b76e-bd1c37061a01,6/22/21 13:48,ccber_user,6/22/21 13:48,ccber_user,-119.8484601,34.41120244
+60,Cassin's Kingbird,1,No,,,,,,,,,,,,,,,,,,,,,,14451dd8-bec1-4c1a-a881-9a00df94c380,6/22/21 13:49,ccber_user,6/22/21 13:49,ccber_user,-119.8475747,34.4106168
+61,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,4cea425a-77cb-4182-9612-aeaf2c5cd778,6/22/21 13:51,ccber_user,6/22/21 13:51,ccber_user,-119.8475841,34.41046805
+62,Great Egret,1,No,,,,,,,,,,,,,,,,,,,,,,d13ef0eb-9ec8-431c-82ad-6cd4499a7082,6/22/21 13:55,ccber_user,6/22/21 13:55,ccber_user,-119.8484149,34.40910515
+63,Oak Titmouse,1,No,,,,,,,,,,,,,,,,,,,,,,dc548c54-272a-4a5f-84aa-ffb5f06adf97,6/22/21 13:56,ccber_user,6/22/21 13:56,ccber_user,-119.8473762,34.40978489
+64,Dark-eyed Junco,1,No,,,,,,,,,,,,,,,,,,,,,,cb48b85c-127a-4c25-bad9-94befd0c8e05,6/22/21 13:56,ccber_user,6/22/21 13:56,ccber_user,-119.8471345,34.40979112
+65,Cassin's Kingbird,1,No,,,,,,,,,,,,,,,,,,,,,,258a254b-42f7-413a-9e9b-43a48b25b9f3,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8472223,34.409595
+66,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,a0673cc4-cbb1-48ff-b7f6-8426f0da220b,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8468395,34.40932079
+67,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,49ce2744-97b9-45cb-bf5a-decb5494470e,6/22/21 13:58,ccber_user,6/22/21 13:59,ccber_user,-119.8461104,34.40887395
+68,Dark-eyed Junco,2,No,,,,,,,,,,,,,,,,,,,,,,147f356e-a7ba-4785-9303-544176f7da62,6/22/21 14:00,ccber_user,6/22/21 14:00,ccber_user,-119.8461703,34.40920796
+69,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,02002e54-e534-4882-a12d-8455eb493953,6/22/21 14:01,ccber_user,6/22/21 14:01,ccber_user,-119.8459626,34.40914409
+70,House Finch,1,No,,,,,,,,,,,,,,,,,,,,,,7e0206fe-ea81-4473-bf99-aca1263ea5bb,6/22/21 14:01,ccber_user,6/22/21 14:01,ccber_user,-119.8457757,34.40911606
+71,Northern Mockingbird,2,No,,,,,,,,,,,,,,,,,,,,,,094a98ec-51f7-4586-ae81-3d9c558c231a,6/22/21 14:01,ccber_user,6/22/21 14:03,ccber_user,-119.8451848,34.40867524
+72,Cooper's Hawk,1,No,,,,,,,,,,,,,,,,,,,,,,87e1e6e9-ff20-46a8-8653-14730566a8aa,6/22/21 14:05,ccber_user,6/22/21 14:05,ccber_user,-119.8454038,34.40914537
+73,Cassin's Kingbird,2,No,,,,,,,,,,,,,,,,,,,,,,10b4db7c-d219-4404-a589-615086b18ffe,6/22/21 14:05,ccber_user,6/22/21 14:05,ccber_user,-119.8453358,34.40909744
+74,Red-winged Blackbird,2,No,,,,,,,,,,,,,,,,,,,,,,b531bb12-f0c6-41be-bb48-77508d2ea56b,6/22/21 14:06,ccber_user,6/22/21 14:06,ccber_user,-119.8455284,34.40913793
+75,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,2ab0058c-0447-40ba-97e6-ddc53085e7a5,6/22/21 14:06,ccber_user,6/22/21 14:06,ccber_user,-119.8453811,34.40901644
+76,Mallard,2,No,,,,,,,,,,,,,,,,,,,,,,496516cd-3e69-4517-a220-fcbe07a286d1,6/22/21 14:07,ccber_user,6/22/21 14:07,ccber_user,-119.8457889,34.40870181
+77,American Crow,1,No,,,,,,,,,,,,,,,,,,,,,,12fd81a2-0c8f-48dd-a899-a978804f8a8c,6/22/21 14:08,ccber_user,6/22/21 14:08,ccber_user,-119.8442426,34.40866791
+78,Double-crested Cormorant,10,No,,,,,,,,,,,,,,,,,,,,,,6c26e6b5-94ac-46a9-bc05-2fd6261880ef,6/22/21 14:09,ccber_user,6/22/21 14:10,ccber_user,-119.8445638,34.40866779
+79,Ruddy Duck,1,No,,,,,,,,,,,,,,,,,,,,,,178e9c27-03ee-4cc2-8e18-5bff6b4f2062,6/22/21 14:10,ccber_user,6/22/21 14:10,ccber_user,-119.8447356,34.40777217
+80,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,b8cfcb25-ba9a-48aa-a2a2-8fb7d6b30ce5,6/22/21 14:14,ccber_user,6/22/21 14:14,ccber_user,-119.8462139,34.40891078
+81,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,5304b672-0f27-4f12-8481-3f0954af40d3,6/22/21 14:15,ccber_user,6/22/21 14:15,ccber_user,-119.8432367,34.40864307
+82,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,4f30bebb-1c26-4eed-9cd5-2df2b3c3358e,6/22/21 14:19,ccber_user,6/22/21 14:19,ccber_user,-119.843604,34.40827787
+83,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,4f6c3a88-656e-4bda-a0cb-ee5f817c04aa,6/22/21 14:19,ccber_user,6/22/21 14:19,ccber_user,-119.8437461,34.40789783
+84,House Finch,1,No,,,,,,,,,,,,,,,,,,,,,,fda8a0e8-d551-489e-8ca2-d0ae044317ce,6/22/21 14:21,ccber_user,6/22/21 14:21,ccber_user,-119.8437394,34.40733831
+85,Black-necked Stilt,9,No,,,,,,,,,,,,,,,,,,,,,,f3123e53-e332-4ea0-8c44-b216b159e825,6/22/21 14:24,ccber_user,6/22/21 14:29,ccber_user,-119.8437117,34.40635571
+86,Greater Yellowlegs,1,No,,,,,,,,,,,,,,,,,,,,,,f3bf2be6-d687-438d-b4db-d6bd03dbc3f3,6/22/21 14:25,ccber_user,6/22/21 14:25,ccber_user,-119.843718,34.40623589
+87,Heermann's Gull,26,No,,,,,,,,,,,,,,,,,,,,,,40b6e1d6-0f81-4984-b1a5-e4f72babaf4b,6/22/21 14:26,ccber_user,6/22/21 14:30,ccber_user,-119.8435332,34.4065218
+88,Cliff Swallow,100,No,,,,,,,,,,,,,,,,,,,,,,2b3db660-391c-44c2-97b2-ac6cd89089ed,6/22/21 14:26,ccber_user,6/22/21 14:26,ccber_user,-119.8434947,34.40640532
+89,American Crow,2,No,,,,,,,,,,,,,,,,,,,,,,1e21e2d3-7873-4c96-848f-fc98e50a9eb5,6/22/21 14:27,ccber_user,6/22/21 14:27,ccber_user,-119.843315,34.40668063
+90,Western Gull,14,No,,,,,,,,,,,,,,,,,,,,,,a8fe1891-c1c3-4a57-8deb-97f0d9d8e502,6/22/21 14:29,ccber_user,6/22/21 14:29,ccber_user,-119.8431567,34.40678298
+91,Brown Pelican,37,No,,,,,,,,,,,,,,,,,,,,,,a41e1b20-28ef-40f9-9b5d-7484710d9a17,6/22/21 14:29,ccber_user,6/22/21 14:29,ccber_user,-119.8428666,34.40703712
+92,Glaucous-winged Gull,1,No,,,,,,,,,,,,,,,,,,,,,,4d2194e7-b03f-478d-b6ed-ecdf8422a5dc,6/22/21 14:32,ccber_user,6/22/21 14:32,ccber_user,-119.8434419,34.4070102
+93,Mallard,2,No,,,,,,,,,,,,,,,,,,,,,,c9e84d40-3f18-4477-a042-38a30db32996,6/22/21 14:34,ccber_user,6/22/21 14:34,ccber_user,-119.843561,34.40635094
+94,Cliff Swallow,50,No,,,,,,,,,,,,,,,,,,,,,,ce7fefb1-81fc-48c5-a8ec-f8313838402d,6/22/21 14:38,ccber_user,6/22/21 14:39,ccber_user,-119.8444258,34.4055451
+95,Semipalmated Plover,4,No,,,,,,,,,,,,,,,,,,,,,,8099a854-5b0c-4779-be94-f7945d7c2aab,6/22/21 14:42,ccber_user,6/22/21 14:42,ccber_user,-119.8441401,34.40455665
+96,Bewick's Wren,1,No,,,,,,,,,,,,,,,,,,,,,,03bd4ed4-bcf3-4012-a5aa-b767a95a9171,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8452082,34.40625529
+97,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,22205c1c-2bc0-4fe5-af1f-49cd782bca3c,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8453211,34.40650732
+98,House Finch,1,No,,,,,,,,,,,,,,,,,,,,,,d54755c0-7bc4-4dc6-a875-a7327da32543,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8450208,34.40663862
+99,American Crow,3,No,,,,,,,,,,,,,,,,,,,,,,d8dddb5d-0a49-418b-a666-5459d2cee32a,6/22/21 14:48,ccber_user,6/22/21 14:48,ccber_user,-119.8456138,34.40653273
+100,Whimbrel,25,No,,,,,,,,,,,,,,,,,,,,,,7e3afc82-3e6c-40c4-96b5-687aec301793,6/22/21 14:57,ccber_user,6/22/21 14:57,ccber_user,-119.8477456,34.40632341
+101,Long-billed Curlew,23,No,,,,,,,,,,,,,,,,,,,,,,4ae38a1f-c49f-4457-8001-027d472e55c0,6/22/21 14:57,ccber_user,6/22/21 14:58,ccber_user,-119.8475659,34.40628534
+102,Cliff Swallow,20,No,,,,,,,,,,,,,,,,,,,,,,b8cc6b5d-1dfb-4604-bd37-2adf41b5646c,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.847512,34.4064526
+103,Ring-billed Gull,4,No,,,,,,,,,,,,,,,,,,,,,,e7005a1a-c881-4bc6-b5cb-1f2060633058,6/22/21 14:59,ccber_user,6/22/21 14:59,ccber_user,-119.8478046,34.40644206
+104,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,b7cb5b3b-7e54-4c06-bf21-f59abc048983,6/22/21 15:03,ccber_user,6/22/21 15:03,ccber_user,-119.8480291,34.40667041
+105,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,9d88551a-b2f2-42cf-ac36-95179e329f7d,6/22/21 15:06,ccber_user,6/22/21 15:07,ccber_user,-119.8477455,34.40659092
+106,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,007b4c0f-7115-4701-88f9-dd06c21d63f1,6/22/21 15:08,ccber_user,6/22/21 15:08,ccber_user,-119.8475453,34.40656656
+107,Tree Swallow,1,No,,,,,,,,,,,,,,,,,,,,,,c8f3b70c-5eda-4cda-80bf-e9b421d0bb48,6/22/21 15:08,ccber_user,6/22/21 15:08,ccber_user,-119.8468971,34.40624253
+108,Song Sparrow,3,No,,,,,,,,,,,,,,,,,,,,,,9bf340ba-339f-417b-bfb2-f608da21d082,6/22/21 15:15,ccber_user,6/22/21 15:17,ccber_user,-119.8491111,34.4072703
+109,California Towhee,1,No,,,,,,,,,,,,,,,,,,,,,,a8000797-7441-4cca-971b-cf1be8312591,6/22/21 15:16,ccber_user,6/22/21 15:16,ccber_user,-119.8475956,34.41028986
+110,California Towhee,1,No,,,,,,,,,,,,,,,,,,,,,,754a7789-a239-4197-b2c3-9958e162a90e,6/22/21 15:36,ccber_user,6/22/21 15:36,ccber_user,-119.8487261,34.40791267
+111,Hooded Oriole,2,No,,,,,,,,,,,,,,,,,,,,,,fe0b746d-4694-447c-9f45-b3e6844d2a63,6/22/21 15:54,ccber_user,6/22/21 15:56,ccber_user,-119.8491069,34.40788172
+112,House Finch,1,No,,,,,,,,,,,,,,,,,,,,,,918450de-49dd-4d90-8431-957d4d2a6dfd,6/22/21 15:55,ccber_user,6/22/21 15:55,ccber_user,-119.8490362,34.40780317
+113,Red-tailed Hawk,1,No,,,,,,,,,,,,,,,,,,,,,,35696346-1b0e-4be0-9f07-b4e5a9751e7f,6/22/21 15:59,ccber_user,6/22/21 15:59,ccber_user,-119.8491074,34.40800848
+114,Northern Rough-winged Swallow,2,No,,,Feeding/Begging,,,,,,,,,,,,65,10,High,Light,North,,,c875d960-6535-4cc3-9d8b-5f991a9fe8d0,6/22/21 16:16,ccber_user,6/22/21 16:16,ccber_user,-119.8508896,34.41109565
+115,Black-necked Stilt,2,No,,,,,,,,,,,,,,,,,,,,,,4b162c6a-7a2d-499d-a6cb-9e82ff907bcc,6/22/21 13:43,ccber_user,6/22/21 13:43,ccber_user,-119.8489563,34.411203
+116,American Crow,1,No,Air,,,,,,,,,,,,,,,,,,,,,eeee256b-9b2a-4ae8-bfb8-b3db09bf313a,6/22/21 13:47,ccber_user,6/22/21 14:03,ccber_user,-119.8490289,34.41101336
+117,Hooded Merganser,1,No,,,,,,,,,,,,,,,,,,,,,,c14868e8-eea3-422f-8b80-6c8502703e5f,6/22/21 13:47,ccber_user,6/22/21 14:02,ccber_user,-119.8489749,34.41154684
+118,Northern Rough-winged Swallow,1,No,,,,,,,,,,,,,,,,,,,,,,2a72168c-9444-4d08-957d-4dea24590df1,6/22/21 13:47,ccber_user,6/22/21 13:47,ccber_user,-119.8480907,34.40955022
+119,House Finch,3,No,,,,Lisa Glenn chris,,,,,,,,,,,,,,,,,,c3776108-633b-4e7d-847d-6b836a8281db,6/22/21 13:48,ccber_user,6/22/21 14:03,ccber_user,-119.8486681,34.41126518
+120,California Towhee,2,No,,,,,,,,,,,,,,,,,,,,,,0f62b145-68aa-4e24-94a4-9253bd79595a,6/22/21 13:51,ccber_user,6/22/21 13:51,ccber_user,-119.849194,34.41134075
+121,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,63c95368-270e-426f-b243-dc49d9cd94c0,6/22/21 13:53,ccber_user,6/22/21 13:53,ccber_user,-119.8493924,34.41145103
+122,Great Blue Heron,2,No,,,,,,,,,,,,,,,,,,,,,,1c159707-1b2a-486b-b66f-037a923f2d42,6/22/21 13:53,ccber_user,6/22/21 13:53,ccber_user,-119.8504618,34.41010451
+123,Cliff Swallow,2,No,,,Nest Building,,,,,,,,,,,,,,,,,,,18832662-a2c4-4231-95dc-e2c085866c35,6/22/21 13:55,ccber_user,6/22/21 13:55,ccber_user,-119.8496403,34.41163958
+124,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,c9aa1a62-03e9-4ac8-9d49-110528632d7e,6/22/21 13:56,ccber_user,6/22/21 13:56,ccber_user,-119.8512919,34.41108817
+125,Willet,1,No,,,,,,,,,,,,,,,,,,,,,,2b90a1f0-d7b2-4adf-a7ff-c86ac8f581da,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8503087,34.41117532
+126,Killdeer,1,No,,,,,,,,,,,,,,,,,,,,,,c232e6ea-eca7-4c2c-9be2-f2564e2957b3,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8503389,34.41116287
+127,Black-necked Stilt,1,No,,,,,,,,,,,,,,,,,,,,,,d273951e-9114-4c46-ba90-49d958ab4fe9,6/22/21 13:57,ccber_user,6/22/21 13:57,ccber_user,-119.8503324,34.41112018
+128,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,2ec1f4d9-33b4-4b09-bbe1-ae1c40565586,6/22/21 13:58,ccber_user,6/22/21 13:58,ccber_user,-119.8503631,34.41104691
+129,Black Phoebe,2,No,,,Other,going in and  out of a stormdrain nest,,,,,,,,,,,,,,,,,,5ec7caad-0005-4b4b-abf6-aa86316980f4,6/22/21 13:59,ccber_user,6/22/21 13:59,ccber_user,-119.8502389,34.41162734
+130,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,4bb3dd11-69fc-4524-b5a1-785d4b14ae7b,6/22/21 14:03,ccber_user,6/22/21 14:03,ccber_user,-119.8492445,34.41143266
+131,Gadwall,3,No,Water - Floating,,,,,,,,,,,,,,,,,,,,,8542aae5-5e17-45bf-842b-620b6525e70a,6/22/21 14:04,ccber_user,6/22/21 14:04,ccber_user,-119.849722,34.41097735
+132,Great Blue Heron,1,No,Air,,,,,,,,,,,,,,,,,,,,,37619353-06cd-49fe-bc57-ec19179e4441,6/22/21 14:11,ccber_user,6/22/21 14:11,ccber_user,-119.8499431,34.40958609
+133,American Crow,5,No,Air,,,,,,,,,,,,,,,,,,,,,c3d11d12-db9f-4369-b6ea-0eba36a41452,6/22/21 14:12,ccber_user,6/22/21 14:12,ccber_user,-119.8501202,34.40902911
+134,Great Blue Heron,1,No,Air,,,,,,,,,,,,,,,,,,,,,a826d0c8-669f-414f-bb45-edac41ec3e04,6/22/21 14:13,ccber_user,6/22/21 14:13,ccber_user,-119.8496667,34.4087931
+135,House Finch,3,No,Vegetation - Tree,,,,,,,,,,,,,,,,,,,,,b8319e72-0383-4f67-8525-8b560afb05a4,6/22/21 14:13,ccber_user,6/22/21 14:13,ccber_user,-119.8507953,34.41053473
+136,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,d8f9c4de-e87f-4fe6-84b1-1737589ad911,6/22/21 14:14,ccber_user,6/22/21 14:14,ccber_user,-119.8506139,34.41010612
+137,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,a428fa07-53a2-4f02-b5d0-3e61e555bdf8,6/22/21 14:15,ccber_user,6/22/21 14:15,ccber_user,-119.8494704,34.40935503
+138,California Thrasher,1,No,,,,,,,,,,,,,,,,,,,,,,24bc3135-f374-4466-a3f9-343a5bdd43d8,6/22/21 14:17,ccber_user,6/22/21 14:17,ccber_user,-119.8505934,34.40947926
+139,Cliff Swallow,1,No,Air,,,,,,,,,,,,,,,,,,,,,45546fad-06b9-4316-b114-1032ed0a9fd6,6/22/21 14:18,ccber_user,6/22/21 14:18,ccber_user,-119.8506729,34.40970587
+140,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,1d0f137b-db34-4eff-8ef4-63921b2337ac,6/22/21 14:18,ccber_user,6/22/21 14:18,ccber_user,-119.8507294,34.40995364
+141,Black Phoebe,1,No,Air,,,,,,,,,,,,,,,,,,,,,9cb54e29-cf9a-4396-90a9-15c465cf58fe,6/22/21 14:21,ccber_user,6/22/21 14:21,ccber_user,-119.8502058,34.40939502
+142,Red-tailed Hawk,1,No,Vegetation - Tree,,Other,juvenile,,,,,,,,,,,,,,,,,,11a040aa-ed78-4c5f-932f-799134559eec,6/22/21 14:23,ccber_user,6/22/21 14:23,ccber_user,-119.8506056,34.40876084
+143,Mallard,3,No,Water - Floating,,,,,,,,,,,,,,,,,,,,,ab87e5ed-59d8-4104-a184-8687a49af8a0,6/22/21 14:24,ccber_user,6/22/21 14:24,ccber_user,-119.8500685,34.40923779
+144,Great Blue Heron,1,Yes,,,,,,,,,,,,,,,,,,,,,,893aab6b-8914-4a1c-8e59-56dc5bd8a4ff,6/22/21 14:26,ccber_user,6/22/21 14:26,ccber_user,-119.8504827,34.40872885
+145,Double-crested Cormorant,1,No,Air,,,,,,,,,,,,,,,,,,,,,57aa8833-c181-4965-bb50-22f37b9b9725,6/22/21 14:27,ccber_user,6/22/21 14:27,ccber_user,-119.8500717,34.40817836
+146,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,fd91c9bc-bfd8-411b-a383-132e9a998d7a,6/22/21 14:30,ccber_user,6/22/21 14:30,ccber_user,-119.8507814,34.4089615
+147,Common Yellowthroat,1,No,Vegetation - Shrub,,,,,,,,,,,,,,,,,,,,,2b9b939d-9f33-478e-945b-a6c4ef21318b,6/22/21 14:32,ccber_user,6/22/21 14:32,ccber_user,-119.8504322,34.40818524
+148,American Crow,1,No,,,,,,,,,,,,,,,,,,,,,,a75e47c2-27c2-4004-8191-edcaf09e9235,6/22/21 14:32,ccber_user,6/22/21 14:32,ccber_user,-119.8500675,34.40787953
+149,Cliff Swallow,15,No,Air,,,,,,,,,,,,,,,,,,,,,cf28b368-85e4-479f-ad94-9a424c94771c,6/22/21 14:33,ccber_user,6/22/21 14:38,ccber_user,-119.8503585,34.40741056
+150,House Finch,5,No,,,,,,,,,,,,,,,,,,,,,,464b1ac7-d402-464d-bb3b-01ac77f1f894,6/22/21 14:35,ccber_user,6/22/21 14:35,ccber_user,-119.8500151,34.40738976
+151,House Finch,15,No,,,,,,,,,,,,,,,,,,,,,,560d4608-a9e0-42a8-8d84-4b4a406d12fa,6/22/21 14:39,ccber_user,6/22/21 14:39,ccber_user,-119.8497416,34.40719769
+152,Song Sparrow,2,No,,,,,,,,,,,,,,,,,,,,,,b0f4be1c-e815-4b01-be42-32ef717e43f5,6/22/21 14:45,ccber_user,6/22/21 14:45,ccber_user,-119.849547,34.40782284
+153,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,8c462b85-015e-41db-9bee-4b481cab5a5d,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8492518,34.40836076
+154,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,a9d091a6-ebd2-4afe-a77f-a34c24e1b1b7,6/22/21 14:47,ccber_user,6/22/21 14:47,ccber_user,-119.8491927,34.40833535
+155,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,0347b36a-5c03-4f25-9d7f-7a41cc49c4e4,6/22/21 14:50,ccber_user,6/22/21 14:50,ccber_user,-119.8490875,34.40781119
+156,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,d9d4de2a-c382-44a5-ab2b-c217d0cff9fa,6/22/21 14:51,ccber_user,6/22/21 14:51,ccber_user,-119.8486691,34.40794673
+157,Allen's Hummingbird,1,No,Vegetation - Shrub,F,,,,,,,,,,,,,,,,,,,,d94a8230-2e55-4739-ba03-b6bb22f1044d,6/22/21 14:57,ccber_user,6/22/21 14:57,ccber_user,-119.8486332,34.40782832
+158,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,b43d25b6-6638-4547-bd82-43245b8adf41,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.8487461,34.40808034
+159,California Scrub-Jay,1,No,,,,,,,,,,,,,,,,,,,,,,2c2b25b1-4bef-4d89-b7e5-cfd12001dbbc,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.8486332,34.40836412
+160,Nuttall's Woodpecker,1,No,,,,,,,,,,,,,,,,,,,,,,c5a388b9-c020-4861-ac33-b3ef4b94b563,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.8484997,34.40828788
+161,California Towhee,1,No,,,,,,,,,,,,,,,,,,,,,,6dfd2959-b192-4cbe-9d3d-a0ee25b7d572,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.8487872,34.40784103
+162,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,15478520-cb76-405b-ace8-1cb103cdb9aa,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.8489412,34.40829635
+163,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,4061b7a1-de9c-45ee-9fd2-6aa7403dc084,6/22/21 14:58,ccber_user,6/22/21 14:58,ccber_user,-119.8489463,34.40799563
+164,Cliff Swallow,5,No,,,,,,,,,,,,,,,,,,,,,,5ddd39ce-8f17-4705-a1c3-27fbd835e0ca,6/22/21 14:59,ccber_user,6/22/21 14:59,ccber_user,-119.8493596,34.40762077
+165,Tree Swallow,2,No,,,Other,in nest box feeding young,,,,,,,,,,,,,,,,,,c234e7fc-37ee-40ed-9897-bc8351c1b2cc,6/22/21 14:59,ccber_user,6/22/21 15:03,ccber_user,-119.8493725,34.40840436
+166,Great Blue Heron,1,No,Bare ground,,,,,,,,,,,,,,,,,,,,,4d49f502-862f-4ec7-a209-5da614f08fc3,6/22/21 15:04,ccber_user,6/22/21 15:04,ccber_user,-119.8490166,34.40901056
+167,Anna's Hummingbird,1,No,,,,eating scrophularia nectar,,,,,,,,,,,,,,,,,,efa103ea-7866-440c-a49b-5ec6d03895e3,6/22/21 15:06,ccber_user,6/22/21 15:06,ccber_user,-119.8489159,34.40894427
+168,Northern Rough-winged Swallow,3,No,,,Feeding/Begging,juveniles 2 being fed by psrent,,,,,,,,,,,,,,,,,,e0688cd6-e3ea-426b-8efe-6310f079de93,6/22/21 15:09,ccber_user,6/22/21 15:10,ccber_user,-119.849551,34.40875424
+169,Pied-billed Grebe,1,No,,,,,,,,,,,,,,,,,,,,,,3ffab29a-6839-4ad0-9247-635962e44ebf,6/22/21 15:15,ccber_user,6/22/21 15:15,ccber_user,-119.8498683,34.41006322
+170,Black-necked Stilt,10,No,,,,,,,,,,,,,,,,,,,,,,d2e1c607-af24-48aa-94eb-fa5ef3097bdf,6/22/21 15:16,ccber_user,6/22/21 15:16,ccber_user,-119.8502712,34.41116055
+171,Eurasian Collared-Dove,1,No,,,,,,,,,,,,,,,,,,,,,,2bd7b9ed-7030-495b-b7a8-529b686dd46e,6/22/21 15:21,ccber_user,6/22/21 15:21,ccber_user,-119.8485397,34.40911985
+172,California Towhee,2,No,,,,,,,,,,,,,,,,,,,,,,620cbf35-3d52-438b-bf98-204f324f5986,6/22/21 15:23,ccber_user,6/22/21 15:23,ccber_user,-119.8488227,34.40902942
+173,Mourning Dove,1,No,,,,,,,,,,,,,,,,,,,,,,8826f51b-0d67-4e9e-8992-8ade50e0a372,6/22/21 15:23,ccber_user,6/22/21 15:23,ccber_user,-119.8487723,34.40884857
+174,Downy Woodpecker,4,No,,,Feeding/Begging,2 juv,,,,,,,,,,,,,,,,,,0d15ae6e-1fc6-44b5-8397-a26549b40335,6/22/21 15:25,ccber_user,6/22/21 15:25,ccber_user,-119.8486123,34.4091614
+175,Allen's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,2f100e55-dd0d-43fc-bfee-05a80e5863bd,6/22/21 15:26,ccber_user,6/22/21 15:26,ccber_user,-119.8484612,34.40898543
+176,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,a07edebe-febc-43e7-be46-fa811d543eed,6/22/21 15:26,ccber_user,6/22/21 15:26,ccber_user,-119.8484198,34.40888278
+177,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,f568150d-584f-470e-9ee3-c2daf26b687c,6/22/21 15:27,ccber_user,6/22/21 15:27,ccber_user,-119.8486034,34.40864327
+178,Oak Titmouse,2,No,,,,,,,,,,,,,,,,,,,,,,f858bdd3-5c08-46c2-a5c4-2aa0e929bf32,6/22/21 15:27,ccber_user,6/22/21 15:27,ccber_user,-119.8484316,34.40850885
+179,Bullock's Oriole,2,No,,,,feeding on Eric flowers,,,,,,,,,,,,,,,,,,d1ce930f-f2a0-4388-8be1-b11d63d1d8a8,6/22/21 15:30,ccber_user,6/22/21 15:30,ccber_user,-119.8480639,34.40836149
+180,California Scrub-Jay,1,No,,,Feeding/Begging,eating yellowfaced humble bees emerging from hole in ground nest,,,,,,,,,,,,,,,,,,a1b5f7b9-6858-4a51-92f3-abdde6fe3ecd,6/22/21 15:30,ccber_user,6/22/21 15:36,ccber_user,-119.8478772,34.40832238
+181,California Scrub-Jay,2,No,,,Feeding/Begging,,,,,,,,,,,,,,,,,,,834bc20a-8473-4ec0-92b3-cec18b75fbca,6/22/21 15:31,ccber_user,6/22/21 15:32,ccber_user,-119.8476904,34.40821973
+182,Hooded Oriole,2,No,,,,,,,,,,,,,,,,,,,,,,78755dde-dd3c-44e7-9e2c-305f7eb3edc0,6/22/21 15:39,ccber_user,6/22/21 15:40,ccber_user,-119.8472711,34.40812302
+183,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,7575a9ab-73ad-450c-8c3f-748b840d8243,6/22/21 15:39,ccber_user,6/22/21 15:39,ccber_user,-119.8470565,34.40806159
+184,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,256651e2-89d7-408a-ba60-ef4b4cb5a65b,6/22/21 15:42,ccber_user,6/22/21 15:42,ccber_user,-119.84689,34.4077689
+185,Mourning Dove,1,No,,,,,,,,,,,,,,,,,,,,,,83694882-71b6-4c25-badd-fdbe2404dd21,6/22/21 15:42,ccber_user,6/22/21 15:42,ccber_user,-119.846636,34.40774542
+186,Double-crested Cormorant,7,No,,,,,,,,,,,,,,,,,,,,,,31121095-aa99-4c57-b9ce-e018c933c679,6/22/21 15:43,ccber_user,6/22/21 15:43,ccber_user,-119.8460579,34.4087626
+187,Mallard,9,No,,,Other,mom with eight tiny babies,,,,,,,,,,,,,,,,,,7300d0cb-b13f-49e8-8bc0-76b3c652d7fa,6/22/21 15:44,ccber_user,6/22/21 15:44,ccber_user,-119.8459703,34.4087373
+188,Acorn Woodpecker,2,No,,,,,,,,,,,,,,,,,,,,,,cb3e3717-236c-40ca-a780-d129bfa33843,6/22/21 15:48,ccber_user,6/22/21 16:00,ccber_user,-119.8452499,34.40649083
+189,Greater Yellowlegs,2,No,,,,,,,,,,,,,,,,,,,,,,9ded28ee-50fc-4b11-9305-141f3c968e33,6/22/21 15:48,ccber_user,6/22/21 15:48,ccber_user,-119.8459168,34.40726432
+190,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,0145bccd-927e-4f25-9b74-0be75771b256,6/22/21 15:49,ccber_user,6/22/21 15:49,ccber_user,-119.8466466,34.40719399
+191,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,4e58ad7a-1859-49a3-b544-3fe6de5eda7c,6/22/21 15:49,ccber_user,6/22/21 15:49,ccber_user,-119.8462699,34.40712032
+192,California Thrasher,1,No,,,,,,,,,,,,,,,,,,,,,,66729c66-b831-4334-b5ed-ba1313ee5879,6/22/21 15:51,ccber_user,6/22/21 16:08,ccber_user,-119.8469675,34.40684885
+193,Snowy Egret,1,No,Air,,,,,,,,,,,,,,,,,,,,,5c7d83af-d43d-45de-baf4-6b6fc25f4075,6/22/21 15:52,ccber_user,6/22/21 15:52,ccber_user,-119.8466105,34.40658386
+194,Brown Pelican,14,No,Air,,,,,,,,,,,,,,,,,,,,,cc46ad84-aaed-4e59-b5cb-baaaaad0c124,6/22/21 15:52,ccber_user,6/22/21 15:52,ccber_user,-119.8471713,34.40623394
+195,Song Sparrow,3,No,,,Feeding/Begging,,,,,,,,,,,,,,,,,,,313a228e-ed59-4d19-8e0d-b7a61a1b1440,6/22/21 15:56,ccber_user,6/22/21 15:56,ccber_user,-119.848312,34.40704127
+196,Red-tailed Hawk,1,No,,,,adult,,,,,,,,,,,,,,,,,,92ab1d28-07bd-4927-aaf4-76f6b5468bf5,6/22/21 16:00,ccber_user,6/22/21 16:00,ccber_user,-119.8498769,34.40757951
+197,Hooded Oriole,1,No,,,,,,,,,,,,,,,,,,,,,,b5cb8c78-2280-4b38-b3b8-b98867934a8a,6/22/21 15:39,ccber_user,6/22/21 15:39,ccber_user,-119.8474445,34.40799473
+198,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,52ad35df-34ab-48ee-9126-569084227c20,6/22/21 15:39,ccber_user,6/22/21 15:39,ccber_user,-119.8475357,34.40780535
+199,Mourning Dove,1,No,,,,,,,,,,,,,,,,,,,,,,1ed94b8d-86e7-465b-ae2c-620482addbf9,6/22/21 15:42,ccber_user,6/22/21 15:42,ccber_user,-119.8467057,34.40772603
+200,Double-crested Cormorant,7,No,,,,,,,,,,,,,,,,,,,,,,e9f65aaa-5ffe-4f4c-87fd-ce5eb0fbf396,6/22/21 15:43,ccber_user,6/22/21 15:46,ccber_user,-119.8459084,34.40875202
+201,Mallard,9,No,,,Other,8 ducklings ,,,,,,,,,,,,,,,,,,6429cc9e-71f0-4bc4-9df2-81e09f96e4b6,6/22/21 15:46,ccber_user,6/22/21 15:46,ccber_user,-119.8458584,34.40872569
+202,Acorn Woodpecker,2,Yes,,,,,,,,,,,,,,,,,,,,,,9f1c36ae-572f-4b04-ae2f-a2b11640e82e,6/22/21 15:47,ccber_user,6/22/21 15:47,ccber_user,-119.845659,34.40639003
+203,Greater Yellowlegs,2,No,,,,,,,,,,,,,,,,,,,,,,f93d42af-defb-4b35-9de5-d31a1fca19ad,6/22/21 15:48,ccber_user,6/22/21 15:48,ccber_user,-119.8460533,34.4072862
+204,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,66ef24eb-4a0b-492f-962c-7d1f8c4111b8,6/22/21 15:48,ccber_user,6/22/21 15:48,ccber_user,-119.8463624,34.4074594
+205,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,9c8b1a2a-8c76-4cf2-a92d-e2440768d8ef,6/22/21 15:49,ccber_user,6/22/21 15:49,ccber_user,-119.846672,34.40740385
+206,California Thrasher,1,No,,,,,,,,,,,,,,,,,,,,,,321c2edb-be9b-459e-a172-771f68a8bd48,6/22/21 15:50,ccber_user,6/22/21 15:50,ccber_user,-119.8466851,34.4069941
+207,Snowy Egret,1,No,,,,,,,,,,,,,,,,,,,,,,2156e079-380d-4b5e-985a-0c460df40965,6/22/21 15:52,ccber_user,6/22/21 15:52,ccber_user,-119.8479094,34.40658491
+208,Brown Pelican,14,No,,,,,,,,,,,,,,,,,,,,,,131269a3-73ef-4cf6-87e9-c14679e8c546,6/22/21 15:52,ccber_user,6/22/21 15:52,ccber_user,-119.8480948,34.40666561
+209,Song Sparrow,3,No,,,Feeding/Begging,,,,,,,,,,,,,,,,,,,d9929e14-6cda-4504-a675-3ba4b47d9987,6/22/21 15:55,ccber_user,6/22/21 15:55,ccber_user,-119.8483371,34.4070459

@@ -1,0 +1,105 @@
+﻿OBJECTID,Species,Count,Repeat Observation,Substrate,Sex,Breeding Activity,Observation Notes,Water Level,Observers,Starting Time,Ending Time,Starting Temp (F),Starting % Cloud Cover,Starting Cloud Height,Starting Wind Speed,Starting Wind Direction,Starting Rain,Ending Temp (F),Ending % Cloud Cover,Ending Cloud Height,Ending Wind Speed,Ending Wind Direction,Ending Rain,Weather Note,GlobalID,CreationDate,Creator,EditDate,Editor,x,y
+1,Black-necked Stilt,12,No,,,,,,"CB, MR",7:20,,63,100,,,,,,,,,,,,3ecad402-6d44-4338-8a69-192c90b252aa,11/17/2021 3:21:24 PM,ccber_user,11/17/2021 3:21:24 PM,ccber_user,-119.850233483157,34.4114067166925
+2,Greater Yellowlegs,1,No,,,,,,,,,,,,,,,,,,,,,,1eba460f-7585-484e-8b3c-dd79ea77c9ab,11/17/2021 3:21:35 PM,ccber_user,11/17/2021 3:21:35 PM,ccber_user,-119.850474619726,34.4112054366281
+3,Short-billed Dowitcher,7,No,,,,,,,,,,,,,,,,,,,,,,82862a53-d9bb-4011-adf2-92093ab90035,11/17/2021 3:21:46 PM,ccber_user,11/17/2021 5:22:57 PM,ccber_user,-119.850369910299,34.4109956421547
+4,Great Blue Heron,1,No,,,,,,,,,,,,,,,,,,,,,,ef0bcd70-9029-4747-a272-bd2240f9cf2e,11/17/2021 3:21:54 PM,ccber_user,11/17/2021 3:21:54 PM,ccber_user,-119.850265200873,34.4111992661228
+5,Double-crested Cormorant,1,No,,,,,,,,,,,,,,,,,,,,,,ea8e59bd-d3ba-440a-aa85-0859e57a1ac3,11/17/2021 3:22:02 PM,ccber_user,11/17/2021 3:22:02 PM,ccber_user,-119.850295117467,34.4111005394572
+6,Brown Pelican,2,No,,,,,,,,,,,,,,,,,,,,,,6134369b-20c3-4e83-86f4-cb16f8f0f590,11/17/2021 3:22:14 PM,ccber_user,11/17/2021 3:22:54 PM,ccber_user,-119.850256312942,34.4111298238198
+7,Bufflehead,3,No,,,,,,,,,,,,,,,,,,,,,,8e5ff0ef-e030-4531-96a7-a81f599629d5,11/17/2021 3:22:25 PM,ccber_user,11/17/2021 3:22:25 PM,ccber_user,-119.850468777981,34.4109584226273
+8,Great Egret,1,No,,,,,,,,,,,,,,,,,,,,,,31de5bb5-7c6c-41d8-a3b9-6f3af90d3f94,11/17/2021 3:22:34 PM,ccber_user,11/17/2021 3:22:34 PM,ccber_user,-119.850551050187,34.4110571494606
+9,Ruddy Duck,5,No,,,,,,,,,,,,,,,,,,,,,,53d5f071-c747-499f-adf9-8895dc6a270b,11/17/2021 3:22:43 PM,ccber_user,11/17/2021 3:23:19 PM,ccber_user,-119.850708114326,34.4109584226273
+10,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,030f9130-184b-4615-9299-dccd1f96dcaf,11/17/2021 3:23:02 PM,ccber_user,11/17/2021 3:23:02 PM,ccber_user,-119.850899226411,34.4107189532106
+11,Willet,2,No,,,,potentially oiled bird,,,,,,,,,,,,,,,,,,712edbbd-1dc4-454a-8e4c-26480e3375a1,11/17/2021 3:23:44 PM,ccber_user,11/17/2021 3:23:44 PM,ccber_user,-119.850547702165,34.4111200300048
+12,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,55819ca3-af48-4cdd-a926-915950dbab3d,11/17/2021 3:23:57 PM,ccber_user,11/17/2021 3:23:57 PM,ccber_user,-119.849949363101,34.4115025941692
+13,Pied-billed Grebe,1,No,,,,,,,,,,,,,,,,,,,,,,16a599f6-695c-4526-88c2-f85042b96a1d,11/17/2021 3:24:10 PM,ccber_user,11/17/2021 3:24:10 PM,ccber_user,-119.850129791522,34.4109788759162
+14,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,94a6d9bb-1fac-4344-9da0-78608fb72d1c,11/17/2021 3:26:13 PM,ccber_user,11/17/2021 3:26:13 PM,ccber_user,-119.850981958554,34.4108901051379
+15,Lincoln's Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,70996642-687f-42e6-b14a-25d62dfd10ca,11/17/2021 3:27:23 PM,ccber_user,11/17/2021 3:27:23 PM,ccber_user,-119.851020416329,34.4109454501496
+16,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,7931f22f-3509-42ec-8c29-d0ad68bd1a3e,11/17/2021 3:27:30 PM,ccber_user,11/17/2021 3:27:30 PM,ccber_user,-119.850999201715,34.4107905206356
+17,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,db68b9e0-0788-4094-a8da-806833fb7b5a,11/17/2021 3:27:40 PM,ccber_user,11/17/2021 3:27:40 PM,ccber_user,-119.850969025508,34.4107940772535
+18,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,69cf057d-caa3-4cff-8f65-1ffbc3428f8d,11/17/2021 3:27:50 PM,ccber_user,11/17/2021 3:27:50 PM,ccber_user,-119.851102665178,34.4108758786818
+19,Double-crested Cormorant,2,No,,,,,,,,,,,,,,,,,,,,,,e3fbeee8-a4da-41fc-8d4a-58c63ee39f63,11/17/2021 3:31:40 PM,ccber_user,11/17/2021 3:31:40 PM,ccber_user,-119.85024047205,34.4108083037235
+20,Snowy Egret,1,No,,,,,,,,,,,,,,,,,,,,,,9dc60508-bd9e-42ed-8816-c9e05f6f2d0f,11/17/2021 3:32:14 PM,ccber_user,11/17/2021 3:32:14 PM,ccber_user,-119.850413302521,34.4110611433244
+21,Red-tailed Hawk,1,No,,,,,,,,,,,,,,,,,,,,,,eefdae42-d0f2-4d06-8180-cbd0fd197088,11/17/2021 3:33:38 PM,ccber_user,11/17/2021 3:33:38 PM,ccber_user,-119.848525837904,34.4091270718786
+22,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,477a954b-153c-4fc3-b4ec-6887d989b9a0,11/17/2021 3:34:47 PM,ccber_user,11/17/2021 3:34:47 PM,ccber_user,-119.850489050262,34.4101389670334
+23,California Towhee,1,No,,,,,,,,,,,,,,,,,,,,,,7fac81da-3799-4ae2-884d-14df508a0a4d,11/17/2021 3:35:40 PM,ccber_user,11/17/2021 3:35:40 PM,ccber_user,-119.850715376306,34.4098521374103
+24,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,8bb7cc6a-5280-422c-84d9-5b0543c417ae,11/17/2021 3:35:51 PM,ccber_user,11/17/2021 3:35:51 PM,ccber_user,-119.85070401172,34.4098958911829
+25,Double-crested Cormorant,1,No,,,,,,,,,,,,,,,,,,,,,,0477b3fe-fbeb-4d3f-b171-cd5f4ecdf1d2,11/17/2021 3:36:05 PM,ccber_user,11/17/2021 3:36:05 PM,ccber_user,-119.84997669075,34.4097896316635
+26,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,8adbd6d7-3bde-43d7-ab30-247fc4643841,11/17/2021 3:36:40 PM,ccber_user,11/17/2021 3:36:40 PM,ccber_user,-119.850480283603,34.4097770836695
+27,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,b60d45a0-4376-4fa5-8257-ae5670bb065f,11/17/2021 3:37:18 PM,ccber_user,11/17/2021 3:37:18 PM,ccber_user,-119.850594155845,34.4094427257359
+28,Ruddy Duck,49,No,,,,,,,,,,,,,,,,,,,,,,6f6fde0a-a990-4b19-ad53-7b02d529e5f5,11/17/2021 3:39:28 PM,ccber_user,11/17/2021 3:39:28 PM,ccber_user,-119.849919868715,34.4080207105609
+29,Mallard,2,No,,,,,,,,,,,,,,,,,,,,,,f2c7a338-d6b8-427b-b301-813de19631aa,11/17/2021 3:39:38 PM,ccber_user,11/17/2021 3:39:38 PM,ccber_user,-119.850158521442,34.4080144597774
+30,Bufflehead,1,No,,,,,,,,,,,,,,,,,,,,,,c0b294f0-70eb-4a76-87a6-3dfb64c33637,11/17/2021 3:39:50 PM,ccber_user,11/17/2021 3:39:50 PM,ccber_user,-119.850105487602,34.4080738407199
+31,Anna's Hummingbird,3,No,,,,,,,,,,,,,,,,,,,,,,c0dc012f-b2f2-427b-ad5b-de2e5678c7bc,11/17/2021 3:41:05 PM,ccber_user,11/17/2021 3:41:30 PM,ccber_user,-119.850586683659,34.408838983305
+32,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,a0ccfaab-182c-4681-a20b-964e734f1abd,11/17/2021 3:42:43 PM,ccber_user,11/17/2021 3:42:43 PM,ccber_user,-119.850612265882,34.4084712237708
+33,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,8930e180-3f24-459e-af35-2ad637c38ad2,11/17/2021 3:42:56 PM,ccber_user,11/17/2021 3:42:56 PM,ccber_user,-119.85056902817,34.4084608493341
+34,Say's Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,9fe3bcdc-aa85-48b5-a531-dfba773095ce,11/17/2021 3:44:54 PM,ccber_user,11/17/2021 3:44:54 PM,ccber_user,-119.850314385432,34.4079758300138
+35,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,9c34e3a8-e469-403e-ba0a-5a402b252f78,11/17/2021 3:45:04 PM,ccber_user,11/17/2021 3:45:04 PM,ccber_user,-119.850339535565,34.4079330342743
+36,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,dccbad7f-1b61-4272-a648-c726ae31f2dc,11/17/2021 3:45:13 PM,ccber_user,11/17/2021 3:45:13 PM,ccber_user,-119.850192955663,34.4077550392493
+37,Song Sparrow,3,No,,,,,,,,,,,,,,,,,,,,,,2d4781e8-c707-48cc-b997-8c4a3f043c43,11/17/2021 3:45:23 PM,ccber_user,11/17/2021 3:47:01 PM,ccber_user,-119.850381579415,34.4079884716618
+38,Double-crested Cormorant,1,No,,,,,,,,,,,,,,,,,,,,,,e643c9c7-bb3b-49a3-8cfe-05e4fe235662,11/17/2021 3:45:46 PM,ccber_user,11/17/2021 3:45:46 PM,ccber_user,-119.84985971932,34.4081181564657
+39,Townsend's Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,2a87ca96-f9c5-401a-a039-3616c3bb3646,11/17/2021 3:46:28 PM,ccber_user,11/17/2021 3:46:28 PM,ccber_user,-119.850422448269,34.4080351583626
+40,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,b385736d-fbc2-46cb-8049-a444c66dc1c6,11/17/2021 3:48:15 PM,ccber_user,11/17/2021 3:48:15 PM,ccber_user,-119.850284650297,34.4078431329857
+41,Eared Grebe,1,No,,,,,,,,,,,,,,,,,,,,,,af9d7a6a-e18a-40df-a4c1-259522bf2239,11/17/2021 3:48:22 PM,ccber_user,11/17/2021 3:48:22 PM,ccber_user,-119.850056129669,34.4078468564861
+42,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,1af3e90a-53cb-4163-9197-9c0390bebcb6,11/17/2021 3:49:07 PM,ccber_user,11/17/2021 3:49:07 PM,ccber_user,-119.850102334516,34.4075418913335
+43,Belted Kingfisher,1,No,,,,,,,,,,,,,,,,,,,,,,55f0c5af-0292-4ed2-938f-677a129c7fd7,11/17/2021 3:49:50 PM,ccber_user,11/17/2021 3:49:50 PM,ccber_user,-119.84977239499,34.408527737673
+44,Snowy Egret,1,No,,,,,,,,,,,,,,,,,,,,,,06e9f01b-464c-4ff5-8cba-45112265b401,11/17/2021 3:50:00 PM,ccber_user,11/17/2021 3:50:00 PM,ccber_user,-119.850211321719,34.407320587291
+45,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,da208450-23c9-42a0-b968-85c39e2a9520,11/17/2021 3:51:24 PM,ccber_user,11/17/2021 3:51:24 PM,ccber_user,-119.849416348625,34.4070190480382
+46,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,32220b3e-46f2-4808-b464-ee4db0673d9b,11/17/2021 3:53:22 PM,ccber_user,11/17/2021 3:53:22 PM,ccber_user,-119.849698711577,34.4073621352525
+47,White-crowned Sparrow,8,No,,,,,,,,,,,,,,,,,,,,,,a601f69a-0c82-4a1a-bd48-3b9f3ceef1ad,11/17/2021 3:56:55 PM,ccber_user,11/17/2021 3:57:28 PM,ccber_user,-119.849252065624,34.4082664406908
+48,Anna's Hummingbird,3,No,,,,,,,,,,,,,,,,,,,,,,5d50abc1-880d-40f6-8010-dbd61f965efe,11/17/2021 3:57:05 PM,ccber_user,11/17/2021 3:57:05 PM,ccber_user,-119.849033192004,34.4082595221595
+49,Blue-gray Gnatcatcher,1,No,,,,,,,,,,,,,,,,,,,,,,58e3eeb9-fa1c-405e-804e-5c9d59fa59bd,11/17/2021 3:58:58 PM,ccber_user,11/17/2021 3:58:58 PM,ccber_user,-119.849167583564,34.4086453663321
+50,White-crowned Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,e70547ba-67bb-4964-8f8a-c7ff859bf52e,11/17/2021 3:59:29 PM,ccber_user,11/17/2021 3:59:29 PM,ccber_user,-119.849190666673,34.4087305664822
+51,Yellow-rumped Warbler,2,No,,,,,,,,,,,,,,,,,,,,,,43f64b07-f4b8-4e2f-a5bd-fa2a4d4d0065,11/17/2021 3:59:40 PM,ccber_user,11/17/2021 3:59:40 PM,ccber_user,-119.849295880054,34.4088340606944
+52,Song Sparrow,3,No,,,,,,,,,,,,,,,,,,,,,,17f96d7e-6066-4426-acc7-8148a417a1b7,11/17/2021 3:59:49 PM,ccber_user,11/17/2021 4:00:17 PM,ccber_user,-119.848916082233,34.4089780695393
+53,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,79d61b43-9473-4edb-81ef-2fd65d12e216,11/17/2021 4:00:26 PM,ccber_user,11/17/2021 4:00:26 PM,ccber_user,-119.849062397132,34.4089865406837
+54,California Towhee,2,No,,,,,,,,,,,,,,,,,,,,,,7716a612-e1f4-4b8f-9f60-6173d30194a2,11/17/2021 4:00:52 PM,ccber_user,11/17/2021 4:01:25 PM,ccber_user,-119.849046995516,34.409009836697
+55,White-crowned Sparrow,10,No,,,,,,,,,,,,,,,,,,,,,,34db56bc-3739-4ba3-8cea-f910cc476a0f,11/17/2021 4:01:18 PM,ccber_user,11/17/2021 4:01:18 PM,ccber_user,-119.848975122209,34.4090776050613
+56,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,74206763-0c94-41f1-9649-5134e7a168d3,11/17/2021 4:01:37 PM,ccber_user,11/17/2021 4:01:37 PM,ccber_user,-119.849224113646,34.4088467674326
+57,Orange-crowned Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,a5efa0b8-6788-4a19-a9db-94203bd71cfa,11/17/2021 4:03:19 PM,ccber_user,11/17/2021 4:03:19 PM,ccber_user,-119.849262618134,34.4088637097471
+58,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,5ea92da7-9449-473c-b135-d022ef99adf3,11/17/2021 4:04:31 PM,ccber_user,11/17/2021 4:04:31 PM,ccber_user,-119.849383263673,34.409467275611
+59,Selasphorus sp.,2,No,,,,,,,,,,,,,,,,,,,,,,e6e06054-70b0-4331-ac5b-c7d028090fa3,11/17/2021 4:04:51 PM,ccber_user,11/17/2021 4:05:28 PM,ccber_user,-119.849387113853,34.4095212786407
+60,Willet,50,No,,,,,,,,,,,,,,,,,,,,,,3ccf031d-1313-4e4f-a410-adc47619b9d0,11/17/2021 4:08:07 PM,ccber_user,11/17/2021 4:08:07 PM,ccber_user,-119.850358126199,34.4110958793339
+61,Bufflehead,1,Yes,,,,,,,,,,,,,,,,,,,,,,28889487-ae2d-407c-8bfe-5ddf247c369a,11/17/2021 4:10:30 PM,ccber_user,11/17/2021 4:10:30 PM,ccber_user,-119.848377827885,34.4097642221774
+62,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,fa134d2f-2f4b-4477-bb2a-1808f260c3ec,11/17/2021 4:11:15 PM,ccber_user,11/17/2021 4:11:15 PM,ccber_user,-119.848911483757,34.4096996664101
+63,Northern Mockingbird,1,No,,,,,,,,,,,,,,,,,,,,,,3b0ca3fa-25d4-4d67-b02a-afc248622154,11/17/2021 4:15:17 PM,ccber_user,11/17/2021 4:15:17 PM,ccber_user,-119.848572449688,34.4086617691409
+64,Rufous/Allen's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,ac83bd26-835a-4cc1-b400-b67eab639a60,11/17/2021 4:17:06 PM,ccber_user,11/17/2021 4:17:06 PM,ccber_user,-119.84830591595,34.4085601698009
+65,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,72598d80-d5b2-4183-abe1-863f5e5baadc,11/17/2021 4:17:48 PM,ccber_user,11/17/2021 4:17:48 PM,ccber_user,-119.848051789742,34.4083822746816
+66,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,8726fac6-5b11-45de-9b7d-e027af856542,11/17/2021 4:19:51 PM,ccber_user,11/17/2021 4:19:51 PM,ccber_user,-119.848069758743,34.4081789662518
+67,Common Yellowthroat,2,No,,,,,,,,,,,,,,,,,,,,,,fc24ab3e-e08b-4efc-bb0c-62e4bd62a8c8,11/17/2021 4:21:17 PM,ccber_user,11/17/2021 4:22:07 PM,ccber_user,-119.847492199507,34.4080513352431
+68,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,84a76b39-c51f-480e-b68a-e7c82ecc6d48,11/17/2021 4:22:48 PM,ccber_user,11/17/2021 4:22:48 PM,ccber_user,-119.846866933442,34.4079192334719
+69,California Towhee,1,No,,,,,,,,,,,,,,,,,,,,,,38e83c32-b41a-402f-ba81-a8696aa8d71d,11/17/2021 4:23:12 PM,ccber_user,11/17/2021 4:23:12 PM,ccber_user,-119.846850199625,34.4079305833184
+70,Anna's Hummingbird,1,No,,,,,,,,,,,,,,,,,,,,,,bb0216f0-a5bf-4332-8243-8b3c25598f57,11/17/2021 4:24:11 PM,ccber_user,11/17/2021 4:24:11 PM,ccber_user,-119.846507556125,34.407842120585
+71,Double-crested Cormorant,31,No,,,,,,,,,,,,,,,,,,,,,,a2c2578b-b697-41c8-9d86-6ea7c8009b47,11/17/2021 4:27:05 PM,ccber_user,11/17/2021 4:27:05 PM,ccber_user,-119.845811044674,34.4087439024594
+72,Snowy Egret,1,No,,,,,,,,,,,,,,,,,,,,,,93f30206-6737-4286-ab7f-4c66af458475,11/17/2021 4:28:49 PM,ccber_user,11/17/2021 4:28:49 PM,ccber_user,-119.845530772102,34.406550471015
+73,Great Egret,1,No,,,,,,,,,,,,,,,,,,,,,,6917c5ef-b4e5-4091-ae7a-7fb551e77f32,11/17/2021 4:29:03 PM,ccber_user,11/17/2021 4:29:03 PM,ccber_user,-119.846055505009,34.4072002382372
+74,American Coot,2,No,,,,,,,,,,,,,,,,,,,,,,20a633ab-4fbc-4eea-bf97-b8a77f326236,11/17/2021 4:29:12 PM,ccber_user,11/17/2021 4:29:12 PM,ccber_user,-119.845909014939,34.4072110738244
+75,Yellow-rumped Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,2ea6dd14-377e-4ec5-924b-a456fe519dc7,11/17/2021 4:32:24 PM,ccber_user,11/17/2021 4:32:24 PM,ccber_user,-119.847052083409,34.4073119670073
+76,White-crowned Sparrow,5,No,,,,,,,,,,,,,,,,,,,,,,cd01cee9-7759-49f0-b20b-030083ec7e0d,11/17/2021 4:33:59 PM,ccber_user,11/17/2021 4:33:59 PM,ccber_user,-119.847568417966,34.4071565178887
+77,Western Snowy Plover,45,Yes,,,,,,,,,,,,,,,,,,,,,,affd94a9-caa5-4b85-a643-1cbcf2b5b495,11/17/2021 4:41:38 PM,ccber_user,11/17/2021 4:41:38 PM,ccber_user,-119.847778703693,34.4062545595537
+78,Peregrine Falcon,2,Yes,,,,both hunting shore bird (sanderling?) over water,,,,,,,,,,,,,,,,,,3e7bccd9-136d-4a91-88dd-b22611e526d2,11/17/2021 4:44:35 PM,ccber_user,11/17/2021 5:15:01 PM,ccber_user,-119.847015596537,34.4052370416219
+79,Long-billed Curlew,1,No,,,,,,,,,,,,,,,,,,,,,,81e08208-6312-47a8-be3d-862ca1bc9f66,11/17/2021 4:45:33 PM,ccber_user,11/17/2021 4:45:33 PM,ccber_user,-119.848699774201,34.40649063244
+80,American Crow,6,No,,,,,,,,,,,,,,,,,,,,,,7f71d1a5-a6ce-498d-9c16-bbeb7e01d8d3,11/17/2021 4:45:55 PM,ccber_user,11/17/2021 4:45:55 PM,ccber_user,-119.848187800965,34.4085671379635
+81,Black Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,1d387f6d-a775-4a81-aec7-ad2efc995194,11/17/2021 4:46:47 PM,ccber_user,11/17/2021 4:46:47 PM,ccber_user,-119.848590750167,34.4067808999352
+82,Say's Phoebe,1,No,,,,,,,,,,,,,,,,,,,,,,870e53a2-b0da-4f3b-9425-549a5baddd5c,11/17/2021 4:49:23 PM,ccber_user,11/17/2021 4:49:23 PM,ccber_user,-119.849127933724,34.4069447669989
+83,Townsend's Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,c07b473f-1941-4b5c-9fb8-10f1a1559e85,11/17/2021 4:51:08 PM,ccber_user,11/17/2021 4:51:08 PM,ccber_user,-119.84899439736,34.4071389104178
+84,Great Blue Heron,1,Yes,,,,,,,,,,,,,,,,,,,,,,ff040750-6103-43ed-a177-95fb40de906b,11/17/2021 4:52:38 PM,ccber_user,11/17/2021 4:52:38 PM,ccber_user,-119.849448203784,34.4079749235978
+85,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,3407fd95-84f1-4f63-8490-251b4534f31b,11/17/2021 4:53:48 PM,ccber_user,11/17/2021 4:53:48 PM,ccber_user,-119.849335655658,34.4077892111395
+86,Orange-crowned Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,69723fe9-0217-4aef-8751-a508767d27c1,11/17/2021 4:53:59 PM,ccber_user,11/17/2021 4:53:59 PM,ccber_user,-119.849138696439,34.4077814728644
+87,Song Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,46a2cbf0-ce90-4ffe-85cd-264bfcb77ec7,11/17/2021 4:54:09 PM,ccber_user,11/17/2021 4:54:09 PM,ccber_user,-119.84902145821,34.4077002235268
+88,House Finch,2,No,,,,,,,,,,,,,,,,,,,,,,a381095a-38aa-4f56-bf7d-29cd0b8ae270,11/17/2021 4:55:32 PM,ccber_user,11/17/2021 4:55:32 PM,ccber_user,-119.848855266289,34.4079730499923
+89,Common Yellowthroat,1,No,,,,,,,,,,,,,,,,,,,,,,d68ced37-62d1-4e22-9aca-ffeebcbf0b62,11/17/2021 4:57:21 PM,ccber_user,11/17/2021 4:57:21 PM,ccber_user,-119.848343949721,34.407902233157
+90,California Towhee,2,No,,,,,,,,,,,,,,,,,,,,,,fbcfe920-127e-476a-8683-ff62ab14cfdb,11/17/2021 4:58:32 PM,ccber_user,11/17/2021 5:01:27 PM,ccber_user,-119.848425890447,34.4076731406438
+91,Golden-crowned Sparrow,1,No,,,,,,,,,,,,,,,,,,,,,,fe31bd43-d04f-42c7-b8ee-b312d78799db,11/17/2021 4:59:02 PM,ccber_user,11/17/2021 4:59:02 PM,ccber_user,-119.848472786099,34.4077040922976
+92,Song Sparrow,4,No,,,,,,,,,,,,,,,,,,,,,,3e9fc053-cfa3-4a98-b914-34ce416d3a5d,11/17/2021 4:59:10 PM,ccber_user,11/17/2021 5:00:32 PM,ccber_user,-119.848468095994,34.4077466517294
+93,Yellow-rumped Warbler,3,No,,,,,,,,,,,,,,,,,,,,,,d12f8a31-1305-4476-a9c2-ecb85d9955fe,11/17/2021 4:59:22 PM,ccber_user,11/17/2021 4:59:22 PM,ccber_user,-119.848660366008,34.4079052814743
+94,Orange-crowned Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,9ea43a42-1e6a-439b-b863-12ddec4341ab,11/17/2021 4:59:49 PM,ccber_user,11/17/2021 4:59:49 PM,ccber_user,-119.84827679706,34.4075493316904
+95,White-crowned Sparrow,10,No,,,,,,,,,,,,,,,,,,,,,,5f9af504-ccaa-401c-9a53-8c8176772710,11/17/2021 5:01:57 PM,ccber_user,11/17/2021 5:01:57 PM,ccber_user,-119.848365898258,34.4077118305799
+96,Orange-crowned Warbler,1,No,,,,,,,,,,,,,,,,,,,,,,38fb74f4-fe26-4529-89c0-6b9040c1fe8a,11/17/2021 5:02:17 PM,ccber_user,11/17/2021 5:02:17 PM,ccber_user,-119.848618683281,34.4076133332587
+97,Anna's Hummingbird,2,No,,,,,,,,,,,,,,,,,,,,,,e2a54dfe-2e2d-4b97-8e29-cbada6d21cbf,11/17/2021 5:02:51 PM,ccber_user,11/17/2021 5:02:51 PM,ccber_user,-119.848640310221,34.4078160427376
+98,Bewick's Wren,1,No,,,,,,,,,,,,,,,,,,,,,,b223afdf-b419-42bf-bae8-fe3b2c338176,11/17/2021 5:06:22 PM,ccber_user,11/17/2021 5:06:22 PM,ccber_user,-119.848958833058,34.4071791503425
+99,Spotted Sandpiper,1,No,,,,,,,,,,,,,,,,,,,,,,9c0f4bbb-f3ed-40b8-a94d-4f3419393174,11/17/2021 5:19:04 PM,ccber_user,11/17/2021 5:19:04 PM,ccber_user,-119.850345148239,34.4073379560742
+100,Western Gull,2,No,,,,,,,,,,,,,,,,,,,,,,4bb9abc8-68ee-4dee-b02c-a7ba9eeea015,11/17/2021 5:21:14 PM,ccber_user,11/17/2021 5:21:14 PM,ccber_user,-119.850000775481,34.4112446881759
+101,Long-billed Dowitcher,4,No,,,,,,,,,,,,,,,,,,,,,,0b7e69b5-7829-44a9-9b9c-da37910bab1d,11/17/2021 5:22:10 PM,ccber_user,11/17/2021 5:22:49 PM,ccber_user,-119.85036463629,34.4111269860963
+102,Ring-billed Gull,1,No,,,,,,,,,,,,,,,,,,,,,,0450f054-e092-477a-b320-0b947854f3c3,11/17/2021 5:22:27 PM,ccber_user,11/17/2021 5:22:27 PM,ccber_user,-119.849856550962,34.4112686135057
+103,Scaly-breasted Munia,6,No,,,,,,,,,,,,,,,,,,,,,,23e748c4-12a2-422d-bdf1-c53697b6e299,11/17/2021 5:23:34 PM,ccber_user,11/17/2021 5:23:34 PM,ccber_user,-119.850318453902,34.4078417937411
+104,Brown Pelican,10,No,,,,Fishing with cormerants,,,,9:34,,,,,,,,,,,,,,4bb55800-2cd9-473c-a01c-8d70576238ce,11/17/2021 5:32:23 PM,ccber_user,11/17/2021 5:34:26 PM,ccber_user,-119.850078711519,34.4102536311653
