@@ -1,7 +1,8 @@
 library(tidyverse)
 library(ggplot2)
-setwd("/Users/.../Desktop") #set location of csv
-bird <- read.csv("bird_data.csv", header=TRUE,)
+
+#setwd("/Users/.../Desktop") #set location of csv
+bird <- read.csv("Emma_Patel_R_code/bird_data.csv", header=TRUE,)
 north <- bird[,7]
 lagoon <- bird[,12]
 west_lagoon <- bird[,18]
@@ -15,12 +16,17 @@ month <- bird$Month
 year <- bird$Year
 species <- bird$Species
 
+#subset the data by species, using two-letter species codes as variable names
+#problem with this is that sometimes it includes 0s and other time NAs (implicit 0s)
+
 #American Coot
 aa <- subset(bird, Species == "American Coot")
 mon <- factor(aa$Month, levels=month.name)
 yr <- as.factor(aa$Year)
-ggplot(aa, aes(x=mon, y=aa$Lagoon.Management.Area.Totals))+
+
+ggplot(aa, aes(x=mon, y=Lagoon.Management.Area.Totals))+
   geom_point(aes(color=yr))+
+  #geom_line(aes(color =yr, group = yr)) +
   labs(x="Month", y="Total Number", title="American Coot")
 
 #American Crow
@@ -63,11 +69,14 @@ ggplot(ah, aes(x=mon, y=ah$Lagoon.Management.Area.Totals))+
   geom_point(aes(color=yr))+
   labs(x="Month", y="Total Number", title="Anna's Hummingbird")
 
+#started just using b as variable name for each species subset...
+
 #Beldings Savannah Sparrow
 b <- subset(bird, Species == "Beldings Savannah Sparrow")
 mon <- factor(b$Month, levels=month.name)
 yr <- as.factor(b$Year)
-ggplot(b, aes(x=mon, y=b$Lagoon.Management.Area.Totals))+
+
+ggplot(b, aes(x=mon, y=Lagoon.Management.Area.Totals))+
   geom_point(aes(color=yr))+
   labs(x="Month", y="Total Number", title="Beldings Savannah Sparrow")
 
