@@ -28,9 +28,16 @@
 - Main website of the SBCBSS: https://santabarbaraaudubon.org/santa-barbara-county-breeding-bird-study/
 - Shiny app developed by Linus Blomqvist: https://linusblomqvist.shinyapps.io/sb_bbs/
 
+## Santa Barbara Christmas Bird Count
+- See SB Audubon page: https://santabarbaraaudubon.org/santa-barbara-christmas-bird-count/
+- National Audubon database: https://netapp.audubon.org/CBCObservation/Historical/ResultsByCount.aspx
+- Interactive web app: https://linusblomqvist.shinyapps.io/cbc_shiny/ 
+
+
 ## eBird data
 - See this page on best practices for using eBird data: https://ebird.github.io/ebird-best-practices/
 - R auk package for querying/downloading full eBird data set: https://cornelllabofornithology.github.io/auk/
-- The eBird hotspot is "UCSB North Campus Open Space (formerly Ocean Meadows Golf Course)": https://ebird.org/hotspot/L820867
+- The eBird hotspot is "UCSB--Campus Lagoon": https://ebird.org/hotspot/L1072372
 - Birdview is a third-party web app for exploring/visualizing eBird data: https://s3.us-west-1.amazonaws.com/membot.com/BirdView.html
+
 
