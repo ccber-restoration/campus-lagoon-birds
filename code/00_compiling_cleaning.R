@@ -1,4 +1,4 @@
-#This script is for cleaning and combinining bird survey files into a single data frame
+#This script is for cleaning and combining bird survey files into a single data frame
 
 library(tidyverse)
 
