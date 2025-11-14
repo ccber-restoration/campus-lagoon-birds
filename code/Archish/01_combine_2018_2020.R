@@ -2,21 +2,24 @@
 # Script: 01_combine_2018_2020.R
 # Author: Archish Prakhya
 # Date: November 2025
-# Purpose: Combine all Campus Lagoon CSVs from 2018–2020 into one dataset
+# Purpose: Combine the raw annual Excel files for 2018–2020 into one dataset
 # Output: data/Combined_2018_2020.csv
 #
 # How to run:
-#  - Run from the project root (where campus-lagoon-birds.Rproj is located)
-#  - Make sure the folders data/2018, data/2019, data/2020 exist
-#  - Then just run: source("code/Archish/01_combine_2018_2020.R")
+#   – Run from the project root (where campus-lagoon-birds.Rproj is located)
+#   – Ensure the raw Excel files for 2018–2020 are in data/from_Box/
+#   – Then run: source("code/Archish/01_combine_2018_2020.R")
+#
 #
 # Notes:
-#  - I used dplyr/purrr for functional-style combining
-#  - The code auto-cleans column names and records source filenames
-#  - Quick QA summary printed at the end for sanity checking
+#   - Uses readxl, dplyr, purrr, janitor for a tidy workflow
+#   - Cleans column names and tags each row with source file
+#   - Performs some light date/year standardization
+#   - Prints a quick QA summary at the end
 # =============================================================
 
 suppressPackageStartupMessages({
+  library(readxl)
   library(readr)
   library(dplyr)
   library(stringr)
@@ -25,50 +28,88 @@ suppressPackageStartupMessages({
   library(purrr)
 })
 
-# ---- Step 1: Identify source files ----
-years <- 2018:2020
-year_dirs <- file.path("data", years)
-stopifnot(all(dir.exists(year_dirs)))
+# ---- Step 1: Identify raw Excel files in data/from_Box ----------------------
 
-csv_files <- unlist(lapply(year_dirs, list.files, pattern = "\\.csv$", full.names = TRUE))
-cat("📂 Found", length(csv_files), "CSV files from 2018–2020\n")
+box_dir <- "data/from_Box"
 
-# ---- Step 2: Read and clean each file ----
-read_safe <- safely(read_csv, otherwise = NULL)
+# Pattern assumes filenames contain the year (2018/2019/2020) and end in .xlsx.
+# If the actual filenames are different, you can adjust the pattern.
+xlsx_files <- list.files(
+  path       = box_dir,
+  pattern    = "201(8|9|0).*\\.xlsx$",  # matches *2018*.xlsx, *2019*.xlsx, *2020*.xlsx
+  full.names = TRUE
+)
 
-raw_list <- map(csv_files, function(file) {
+cat("📂 Found", length(xlsx_files), "annual Excel files for 2018–2020 in", box_dir, "\n")
+if (length(xlsx_files) > 0) {
+  print(basename(xlsx_files))
+}
+
+if (length(xlsx_files) == 0L) {
+  warning(
+    "No 2018–2020 Excel files were found in data/from_Box. ",
+    "Please place the annual raw files there and re-run this script."
+  )
+  # Write an empty placeholder file so downstream code doesn't explode
+  empty_df <- tibble()
+  dir.create("data", showWarnings = FALSE, recursive = TRUE)
+  write_csv(empty_df, "data/Combined_2018_2020.csv")
+  cat("💾 Saved empty Combined_2018_2020.csv (placeholder).\n")
+  quit(save = "no")
+}
+
+# ---- Step 2: Read and clean each Excel file --------------------------------
+
+read_safe_xlsx <- safely(read_excel, otherwise = NULL)
+
+raw_list <- map(xlsx_files, function(file) {
   cat("Reading:", basename(file), "\n")
-  res <- read_safe(file, guess_max = 100000)
-  if (is.null(res$result)) return(NULL)
-  df <- res$result |> clean_names()
+  res <- read_safe_xlsx(file)
+  if (is.null(res$result)) {
+    warning("Failed to read: ", file)
+    return(NULL)
+  }
+  
+  df <- res$result |>
+    clean_names()
+  
   df$source_file <- basename(file)
   df
 })
 
 combined_18_20 <- bind_rows(raw_list)
-cat("✅ Combined all files. Rows so far:", nrow(combined_18_20), "\n")
+cat("✅ Combined Excel files. Rows so far:", nrow(combined_18_20), "\n")
 
-# ---- Step 3: Light standardization ----
-coalesce_many <- function(df, cols) reduce(cols[cols %in% names(df)], ~ coalesce(df[[.x]], df[[.y]]))
+# ---- Step 3: Light standardization (date / time / year) --------------------
 
 combined_18_20 <- combined_18_20 |>
   mutate(
-    date = coalesce_many(cur_data(), c("date", "observation_date")),
-    time = coalesce_many(cur_data(), c("time", "starting_time")),
-    year = if_else(!is.na(year), as.numeric(year), year(as.Date(date)))
+    # ensure date is date format
+    date = as.Date(date),
+    
+    # force all time values to character (avoids datetime vs character issues)
+    time = as.character(time),
+    
+    # extract year
+    year = year(date)
   )
+    
+# ---- Step 4: Basic QA summary ----------------------------------------------
 
-# ---- Step 4: Quick Sanity check ----
 qa_summary <- combined_18_20 |>
   summarise(
-    total_rows = n(),
-    missing_counts = sum(is.na(count)),
+    total_rows      = n(),
+    missing_counts  = sum(is.na(count)),
     negative_counts = sum(count < 0, na.rm = TRUE)
   )
+
+cat("ℹ️ QA summary for 2018–2020 combined data:\n")
 print(qa_summary)
 
-# ---- Step 5: Save output ----
+# ---- Step 5: Save output ---------------------------------------------------
+
 out_path <- "data/Combined_2018_2020.csv"
 dir.create(dirname(out_path), recursive = TRUE, showWarnings = FALSE)
 write_csv(combined_18_20, out_path)
 cat("💾 Saved merged dataset to:", out_path, "\n")
+
