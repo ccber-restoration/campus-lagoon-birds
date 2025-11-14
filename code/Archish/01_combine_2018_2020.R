@@ -62,6 +62,8 @@ if (length(xlsx_files) == 0L) {
 
 read_safe_xlsx <- safely(read_excel, otherwise = NULL)
 
+
+
 raw_list <- map(xlsx_files, function(file) {
   cat("Reading:", basename(file), "\n")
   res <- read_safe_xlsx(file)
@@ -105,6 +107,24 @@ qa_summary <- combined_18_20 |>
 
 cat("ℹ️ QA summary for 2018–2020 combined data:\n")
 print(qa_summary)
+
+#no negative counts, but 60 missing.
+#TODO - figure out what is going on with the missing counts and make plan to clean
+
+#create dataframe filtered just to NA counts
+
+missing_counts <- combined_18_20 %>% 
+  filter(is.na(count)) %>% 
+  filter(!(is.na(common_name)))
+
+#49 rows have value in common name. Presumably those counts should be 1
+#could use mutate & case_when to make correction
+
+missing_species <- combined_18_20 %>% 
+  filter(is.na(common_name))
+#65 rows missing common_name
+#some indicate the end of the survey
+#in others the species was indicated in the observation_notes column
 
 # ---- Step 5: Save output ---------------------------------------------------
 
