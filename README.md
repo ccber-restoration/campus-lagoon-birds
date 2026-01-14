@@ -1,5 +1,7 @@
 # Overview
 
+See overview of the campus lagoon ecosystem and restoration efforts there: https://ccber.ucsb.edu/restoration-area-campus-lagoon
+
 # Data
 - Monthly surveys following the current protocol began in 2019 at Campus Lagoon
 - See eScholarship data description here: https://escholarship.org/uc/item/47q7s0gb 
@@ -39,5 +41,6 @@
 - R auk package for querying/downloading full eBird data set: https://cornelllabofornithology.github.io/auk/
 - The eBird hotspot is "UCSB--Campus Lagoon": https://ebird.org/hotspot/L1072372
 - Birdview is a third-party web app for exploring/visualizing eBird data: https://s3.us-west-1.amazonaws.com/membot.com/BirdView.html
+
 
 
