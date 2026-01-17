@@ -1,5 +1,12 @@
 # Overview
 
+See overview of the campus lagoon ecosystem and restoration efforts there: https://ccber.ucsb.edu/restoration-area-campus-lagoon
+
+- Research foci:
+  - **Oak woodland birds** Changes in bird assemblages associated with restoration efforts (direct-seeding of live oaks)
+    - From Lehman: "Characteristic birds of oak woodland include Band-tailed Pigeon (South Coast only), Western Screech-Owl (very local on North Coast), Acorn and Nuttall's Woodpeckers, Western Flycatcher (summer only), Hutton’s Vireo, Western Scrub-Jay, Oak Titmouse, Bushtit, Rubycrowned Kinglet (winter only), White-breasted Nuthatch, and Orange-crowned Warbler." 
+  - **Aquatic birds** Examine changes (declines) for some aquatic bird species? Do these primarily reflect regional change, rather than responses to local conditions?
+
 # Data
 - Monthly surveys following the current protocol began in 2019 at Campus Lagoon
 - See eScholarship data description here: https://escholarship.org/uc/item/47q7s0gb 
@@ -22,6 +29,13 @@
   -  AOS checklist of North American birds: https://checklist.americanornithology.org/
   -   eBird/Clements checklist: https://www.birds.cornell.edu/clementschecklist/
   -   AviList https://www.avilist.org/checklist/v2025/
+ 
+## The Birds of Santa Barbara County (BOSBC)
+
+Periodically-updated resource by Paul Lehman.
+
+- pdfs available here: http://www.sbcobirding.com/lehmanbosbc.html
+- web app for quickly searching species accounts: https://linusblomqvist.shinyapps.io/bosbc/
   
 ## Santa Barbara County Breeding Bird Study
 
@@ -39,5 +53,7 @@
 - R auk package for querying/downloading full eBird data set: https://cornelllabofornithology.github.io/auk/
 - The eBird hotspot is "UCSB--Campus Lagoon": https://ebird.org/hotspot/L1072372
 - Birdview is a third-party web app for exploring/visualizing eBird data: https://s3.us-west-1.amazonaws.com/membot.com/BirdView.html
+
+
 
 

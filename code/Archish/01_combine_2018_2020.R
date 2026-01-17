@@ -10,7 +10,6 @@
 #   – Ensure the raw Excel files for 2018–2020 are in data/from_Box/
 #   – Then run: source("code/Archish/01_combine_2018_2020.R")
 #
-#
 # Notes:
 #   - Uses readxl, dplyr, purrr, janitor for a tidy workflow
 #   - Cleans column names and tags each row with source file
@@ -62,8 +61,6 @@ if (length(xlsx_files) == 0L) {
 
 read_safe_xlsx <- safely(read_excel, otherwise = NULL)
 
-
-
 raw_list <- map(xlsx_files, function(file) {
   cat("Reading:", basename(file), "\n")
   res <- read_safe_xlsx(file)
@@ -95,7 +92,7 @@ combined_18_20 <- combined_18_20 |>
     # extract year
     year = year(date)
   )
-    
+
 # ---- Step 4: Basic QA summary ----------------------------------------------
 
 qa_summary <- combined_18_20 |>
@@ -108,23 +105,29 @@ qa_summary <- combined_18_20 |>
 cat("ℹ️ QA summary for 2018–2020 combined data:\n")
 print(qa_summary)
 
-#no negative counts, but 60 missing.
-#TODO - figure out what is going on with the missing counts and make plan to clean
+# no negative counts, but 60 missing.
+# TODO - figure out what is going on with the missing counts and make plan to clean
 
-#create dataframe filtered just to NA counts
+# ---- Step 4b: Explore missing counts/species (for future cleaning) ---------
 
+# subset rows where count is NA but common_name is present
 missing_counts <- combined_18_20 %>% 
   filter(is.na(count)) %>% 
-  filter(!(is.na(common_name)))
+  filter(!is.na(common_name))
 
-#49 rows have value in common name. Presumably those counts should be 1
-#could use mutate & case_when to make correction
+# 49 rows have value in common_name. Presumably those counts should be 1
+# could use mutate & case_when to make a correction later, if we decide that
+# is appropriate based on survey protocol.
 
+# subset rows where common_name itself is missing
 missing_species <- combined_18_20 %>% 
   filter(is.na(common_name))
-#65 rows missing common_name
-#some indicate the end of the survey
-#in others the species was indicated in the observation_notes column
+
+# 65 rows missing common_name
+# some indicate the end of the survey
+# in others the species was indicated in the observation_notes column
+# These objects (missing_counts, missing_species) are for inspection
+# in R and do not yet modify the combined_18_20 dataset.
 
 # ---- Step 5: Save output ---------------------------------------------------
 
@@ -132,4 +135,3 @@ out_path <- "data/Combined_2018_2020.csv"
 dir.create(dirname(out_path), recursive = TRUE, showWarnings = FALSE)
 write_csv(combined_18_20, out_path)
 cat("💾 Saved merged dataset to:", out_path, "\n")
-
