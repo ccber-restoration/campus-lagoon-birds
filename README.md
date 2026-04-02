@@ -10,7 +10,7 @@ See overview of the campus lagoon ecosystem and restoration efforts there: <http
             -   Acorn and Nuttall's Woodpeckers
             -   Western Flycatcher (summer only)
             -   Hutton’s Vireo
-            -   Western Scrub-Jay
+            -   Western Scrub-Jay (species was split, now California Scrub Jay)
             -   Oak Titmouse
             -   Bushtit
             -   Rubycrowned Kinglet (winter only)
