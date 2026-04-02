@@ -2,5 +2,4 @@
 
 Akshay- document your code here!
 
-The code that i make is okay for the time being
-
+This is the code log for all future work
