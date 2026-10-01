@@ -13,7 +13,7 @@ See overview of the campus lagoon ecosystem and restoration efforts there: <http
             -   Western Scrub-Jay (species was split, now California Scrub Jay)
             -   Oak Titmouse
             -   Bushtit
-            -   Rubycrowned Kinglet (winter only)
+            -   Ruby-crowned Kinglet (winter only)
             -   White-breasted Nuthatch
             -   Orange-crowned Warbler
     -   **Aquatic birds** Examine changes (declines) for some aquatic bird species? Do these primarily reflect regional change, rather than responses to local conditions?
