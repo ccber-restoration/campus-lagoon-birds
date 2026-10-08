@@ -1,22 +1,9 @@
 # Overview
 
+This repository holds code and data related to long-term bird monitoring at UCSB's Campus Lagoon.
+
 See overview of the campus lagoon ecosystem and restoration efforts there: <https://ccber.ucsb.edu/restoration-area-campus-lagoon>
 
--   Research foci:
-    -   **Oak woodland birds** Changes in bird assemblages associated with restoration efforts (direct-seeding of live oaks)
-        -   From Lehman: "Characteristic birds of oak woodland include:
-            -   Band-tailed Pigeon (South Coast only)
-            -   Western Screech-Owl (very local on North Coast)
-            -   Acorn and Nuttall's Woodpeckers
-            -   Western Flycatcher (summer only)
-            -   Hutton’s Vireo
-            -   Western Scrub-Jay (species was split, now California Scrub Jay)
-            -   Oak Titmouse
-            -   Bushtit
-            -   Ruby-crowned Kinglet (winter only)
-            -   White-breasted Nuthatch
-            -   Orange-crowned Warbler
-    -   **Aquatic birds** Examine changes (declines) for some aquatic bird species? Do these primarily reflect regional change, rather than responses to local conditions?
 
 # Data
 
