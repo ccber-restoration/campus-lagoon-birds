@@ -1,0 +1,351 @@
+scientific_name,general_type,species_code,taxon_concept_id,common_name,order,family,family_common,category,taxonomic_order,report_as
+Dendrocygna bicolor,Waterfowl & Friends,fuwduc,avibase-9A60617E,Fulvous Whistling-Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,249,NA
+Anser caerulescens,Waterfowl & Friends,snogoo,avibase-D3A260BC,Snow Goose,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,267,NA
+Anser rossii,Waterfowl & Friends,rosgoo,avibase-7A24F57F,Ross's Goose,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,272,NA
+Anser albifrons,Waterfowl & Friends,gwfgoo,avibase-466E9077,Greater White-fronted Goose,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,287,NA
+Branta bernicla,Waterfowl & Friends,brant,avibase-3E04020B,Brant,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,314,NA
+Branta hutchinsii,Waterfowl & Friends,cacgoo1,avibase-60214D49,Cackling Goose,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,331,NA
+Branta hutchinsii leucopareia,Waterfowl & Friends,alcgoo1,avibase-90B3F5BB,Cackling Goose (Aleutian),Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",issf,332,cacgoo1
+Branta canadensis,Waterfowl & Friends,cangoo,avibase-B59E1863,Canada Goose,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,342,NA
+Cygnus olor,Waterfowl & Friends,mutswa,avibase-694C127A,Mute Swan,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,377,NA
+Cygnus buccinator,Waterfowl & Friends,truswa,avibase-B86C504C,Trumpeter Swan,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,382,NA
+Cygnus columbianus,Waterfowl & Friends,tunswa,avibase-0BCBA6B9,Tundra Swan,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,384,NA
+Aix sponsa,Waterfowl & Friends,wooduc,avibase-27B2749A,Wood Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,455,NA
+Spatula discors,Waterfowl & Friends,buwtea,avibase-90E2543E,Blue-winged Teal,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,485,NA
+Spatula cyanoptera,Waterfowl & Friends,cintea,avibase-0E599E6C,Cinnamon Teal,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,487,NA
+Spatula clypeata,Waterfowl & Friends,norsho,avibase-ED4CE8E7,Northern Shoveler,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,501,NA
+Spatula cyanoptera x clypeata,Waterfowl & Friends,x00630,avibase-6712E378,Cinnamon Teal x Northern Shoveler (hybrid),Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",hybrid,504,NA
+Mareca strepera,Waterfowl & Friends,gadwal,avibase-C235A4D7,Gadwall,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,505,NA
+Mareca penelope,Waterfowl & Friends,eurwig,avibase-15EE0D36,Eurasian Wigeon,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,512,NA
+Mareca americana,Waterfowl & Friends,amewig,avibase-D201EB72,American Wigeon,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,517,NA
+Anas platyrhynchos,Waterfowl & Friends,mallar3,avibase-85625D75,Mallard,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,545,NA
+Anas platyrhynchos/diazi,Waterfowl & Friends,mallar,avibase-D6F5A788,Mallard/Mexican Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",slash,570,NA
+Anas acuta,Waterfowl & Friends,norpin,avibase-56CCA717,Northern Pintail,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,594,NA
+Anas crecca,Waterfowl & Friends,gnwtea,avibase-BC6C3CCE,Green-winged Teal,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,612,NA
+Aythya valisineria,Waterfowl & Friends,canvas,avibase-1929E1E1,Canvasback,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,666,NA
+Aythya americana,Waterfowl & Friends,redhea,avibase-3072CC16,Redhead,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,667,NA
+Aythya collaris,Waterfowl & Friends,rinduc,avibase-0783A7EA,Ring-necked Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,673,NA
+Aythya fuligula,Waterfowl & Friends,tufduc,avibase-67CEA1C1,Tufted Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,687,NA
+Aythya marila,Waterfowl & Friends,gresca,avibase-25C94A8F,Greater Scaup,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,694,NA
+Aythya affinis,Waterfowl & Friends,lessca,avibase-50566E50,Lesser Scaup,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,700,NA
+Melanitta perspicillata,Waterfowl & Friends,sursco,avibase-624078BA,Surf Scoter,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,728,NA
+Melanitta fusca/deglandi/stejnegeri,Waterfowl & Friends,whwsco,avibase-8C602FD9,Velvet/White-winged/Stejneger's Scoter,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",slash,734,NA
+Melanitta americana,Waterfowl & Friends,blksco2,avibase-B7B1A5DD,Black Scoter,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,737,NA
+Clangula hyemalis,Waterfowl & Friends,lotduc,avibase-AF0C7BDE,Long-tailed Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,741,NA
+Bucephala albeola,Waterfowl & Friends,buffle,avibase-FB738385,Bufflehead,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,742,NA
+Bucephala clangula,Waterfowl & Friends,comgol,avibase-68EA281A,Common Goldeneye,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,743,NA
+Lophodytes cucullatus,Waterfowl & Friends,hoomer,avibase-60E6081E,Hooded Merganser,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,754,NA
+Mergus merganser,Waterfowl & Friends,commer,avibase-407E2CA8,Common Merganser,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,762,NA
+Mergus serrator,Waterfowl & Friends,rebmer,avibase-8DB64266,Red-breasted Merganser,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,770,NA
+Oxyura jamaicensis,Waterfowl & Friends,rudduc,avibase-675EEA7F,Ruddy Duck,Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",species,778,NA
+Callipepla californica,Seed & Fruit Eaters,calqua,avibase-F93AC929,California Quail,Galliformes,Odontophoridae,New World Quail,species,1094,NA
+Columba livia,Seed & Fruit Eaters,rocpig,avibase-BBA263C2,Rock Pigeon,Columbiformes,Columbidae,Pigeons and Doves,species,1853,NA
+Columba livia (Feral Pigeon),Seed & Fruit Eaters,rocpig1,avibase-533DD36C,Rock Pigeon (Feral Pigeon),Columbiformes,Columbidae,Pigeons and Doves,domestic,1868,rocpig
+Patagioenas fasciata,Seed & Fruit Eaters,batpig1,avibase-31ACA998,Band-tailed Pigeon,Columbiformes,Columbidae,Pigeons and Doves,species,1966,NA
+Streptopelia decaocto,Seed & Fruit Eaters,eucdov,avibase-0C1EFC9B,Eurasian Collared-Dove,Columbiformes,Columbidae,Pigeons and Doves,species,2031,NA
+Streptopelia decaocto/xanthocycla,Seed & Fruit Eaters,y01178,avibase-41FACE63,Eurasian/Burmese Collared-Dove,Columbiformes,Columbidae,Pigeons and Doves,slash,2035,NA
+Spilopelia chinensis,Seed & Fruit Eaters,spodov,avibase-C8EF4F36,Spotted Dove,Columbiformes,Columbidae,Pigeons and Doves,species,2064,NA
+Columbina passerina,Seed & Fruit Eaters,cogdov,avibase-F9AED548,Common Ground Dove,Columbiformes,Columbidae,Pigeons and Doves,species,2243,NA
+Zenaida asiatica,Seed & Fruit Eaters,whwdov,avibase-BFBC73AF,White-winged Dove,Columbiformes,Columbidae,Pigeons and Doves,species,2389,NA
+Zenaida macroura,Seed & Fruit Eaters,moudov,avibase-00124D98,Mourning Dove,Columbiformes,Columbidae,Pigeons and Doves,species,2412,NA
+Geococcyx californianus,Omnivores,greroa,avibase-DB5DABCF,Greater Roadrunner,Cuculiformes,Cuculidae,Cuckoos,species,3038,NA
+Chordeiles acutipennis,Insectivores - Aerial,lesnig,avibase-9690689D,Lesser Nighthawk,Caprimulgiformes,Caprimulgidae,Nightjars and Allies,species,3484,NA
+Chordeiles minor,Insectivores - Aerial,comnig,avibase-24E39ACD,Common Nighthawk,Caprimulgiformes,Caprimulgidae,Nightjars and Allies,species,3492,NA
+Phalaenoptilus nuttallii,Insectivores - Aerial,compoo,avibase-D621FFC6,Common Poorwill,Caprimulgiformes,Caprimulgidae,Nightjars and Allies,species,3588,NA
+Chaetura vauxi,Insectivores - Aerial,vauswi,avibase-1775ED98,Vaux's Swift,Apodiformes,Apodidae,Swifts,species,3897,NA
+Aeronautes saxatalis,Insectivores - Aerial,whtswi,avibase-B401C2DD,White-throated Swift,Apodiformes,Apodidae,Swifts,species,4158,NA
+Archilochus alexandri,Hummingbirds,bkchum,avibase-4BB4F257,Black-chinned Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4803,NA
+Calypte anna,Hummingbirds,annhum,avibase-42393721,Anna's Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4814,NA
+Calypte costae,Hummingbirds,coshum,avibase-145F1116,Costa's Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4818,NA
+Selasphorus calliope,Hummingbirds,calhum,avibase-5816834E,Calliope Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4823,NA
+Selasphorus rufus,Hummingbirds,rufhum,avibase-1E1B6D19,Rufous Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4826,NA
+Selasphorus sasin,Hummingbirds,allhum,avibase-C25794D5,Allen's Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4831,NA
+Selasphorus rufus/sasin,Hummingbirds,y00001,avibase-E2AD7435,Rufous/Allen's Hummingbird,Apodiformes,Trochilidae,Hummingbirds,slash,4838,NA
+Selasphorus platycercus,Hummingbirds,brthum,avibase-AFBD5A5F,Broad-tailed Hummingbird,Apodiformes,Trochilidae,Hummingbirds,species,4839,NA
+Selasphorus sp.,Hummingbirds,selasp,avibase-77567086,Selasphorus sp.,Apodiformes,Trochilidae,Hummingbirds,spuh,4859,NA
+Rallus limicola,Waterfowl & Friends,virrai,avibase-87705CC4,Virginia Rail,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",species,5297,NA
+Porzana carolina,Waterfowl & Friends,sora,avibase-2CC21529,Sora,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",species,5455,NA
+Gallinula galeata,Waterfowl & Friends,comgal1,avibase-3EF081A8,Common Gallinule,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",species,5468,NA
+Fulica americana,Waterfowl & Friends,y00475,avibase-4FB248BA,American Coot,Gruiformes,Rallidae,"Rails, Gallinules, and Coots",species,5500,NA
+Fulica americana (Red-shielded),Waterfowl & Friends,amecoo,avibase-9BEECB7E,American Coot (Red-shielded),Gruiformes,Rallidae,"Rails, Gallinules, and Coots",form,5503,y00475
+Antigone canadensis,"Herons, Egrets, Ibis",sancra,avibase-E196D6F9,Sandhill Crane,Gruiformes,Gruidae,Cranes,species,5697,NA
+Himantopus mexicanus,Shorebirds,bknsti,avibase-D543132B,Black-necked Stilt,Charadriiformes,Recurvirostridae,Stilts and Avocets,species,5770,NA
+Recurvirostra americana,Shorebirds,ameavo,avibase-8EB0C1FA,American Avocet,Charadriiformes,Recurvirostridae,Stilts and Avocets,species,5780,NA
+Haematopus palliatus,Shorebirds,ameoys,avibase-981CE782,American Oystercatcher,Charadriiformes,Haematopodidae,Oystercatchers,species,5799,NA
+Haematopus bachmani,Shorebirds,blkoys,avibase-BD49DB46,Black Oystercatcher,Charadriiformes,Haematopodidae,Oystercatchers,species,5806,NA
+Pluvialis squatarola,Shorebirds,bkbplo,avibase-27903EF7,Black-bellied Plover,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5811,NA
+Pluvialis dominica,Shorebirds,amgplo,avibase-2143A852,American Golden-Plover,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5815,NA
+Pluvialis fulva,Shorebirds,pagplo,avibase-07C11CF3,Pacific Golden-Plover,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5816,NA
+Charadrius vociferus,Shorebirds,killde,avibase-BCF9A19A,Killdeer,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5827,NA
+Charadrius semipalmatus,Shorebirds,semplo,avibase-95E28A57,Semipalmated Plover,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5834,NA
+Charadrius melodus,Shorebirds,pipplo,avibase-671B69FE,Piping Plover,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5836,NA
+Anarhynchus montanus,Shorebirds,mouplo,avibase-1FFFEF4E,Mountain Plover,Charadriiformes,Charadriidae,Plovers and Lapwings,species,5934,NA
+Anarhynchus nivosus nivosus,Shorebirds,snoplo3,avibase-4E6423C8,Snowy Plover (Northern),Charadriiformes,Charadriidae,Plovers and Lapwings,issf,5942,snoplo5
+Numenius hudsonicus,Shorebirds,whimbr3,avibase-4D844D5E,Hudsonian Whimbrel,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6011,NA
+Numenius hudsonicus/phaeopus,Shorebirds,whimbr,avibase-F9305BAA,Hudsonian/Eurasian Whimbrel,Charadriiformes,Scolopacidae,Sandpipers and Allies,slash,6018,NA
+Numenius americanus,Shorebirds,lobcur,avibase-5284C27B,Long-billed Curlew,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6021,NA
+Limosa fedoa,Shorebirds,margod,avibase-249AE8DF,Marbled Godwit,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6051,NA
+Limnodromus griseus,Shorebirds,shbdow,avibase-4A3B2CFF,Short-billed Dowitcher,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6057,NA
+Limnodromus scolopaceus,Shorebirds,lobdow,avibase-CB343E43,Long-billed Dowitcher,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6061,NA
+Limnodromus griseus/scolopaceus,Shorebirds,dowitc,avibase-87298A18,Short-billed/Long-billed Dowitcher,Charadriiformes,Scolopacidae,Sandpipers and Allies,slash,6062,NA
+Gallinago delicata,Shorebirds,wilsni1,avibase-F5C8516D,Wilson's Snipe,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6104,NA
+Phalaropus tricolor,Shorebirds,wilpha,avibase-667C6969,Wilson's Phalarope,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6119,NA
+Phalaropus fulicarius,Shorebirds,redpha1,avibase-18A19380,Red Phalarope,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6120,NA
+Phalaropus lobatus,Shorebirds,renpha,avibase-E6F3BA54,Red-necked Phalarope,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6121,NA
+Phalaropus sp.,Shorebirds,phalar,avibase-F7B04FBA,phalarope sp.,Charadriiformes,Scolopacidae,Sandpipers and Allies,spuh,6123,NA
+Actitis macularius,Shorebirds,sposan,avibase-0D88C072,Spotted Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6126,NA
+Tringa solitaria,Shorebirds,solsan,avibase-D4A73324,Solitary Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6129,NA
+Tringa incana,Shorebirds,wantat1,avibase-13854B6E,Wandering Tattler,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6134,NA
+Tringa flavipes,Shorebirds,lesyel,avibase-2C7A2673,Lesser Yellowlegs,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6145,NA
+Tringa semipalmata,Shorebirds,willet1,avibase-E7A14E91,Willet,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6147,NA
+Tringa melanoleuca,Shorebirds,greyel,avibase-6EB81C98,Greater Yellowlegs,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6154,NA
+Arenaria interpres,Shorebirds,rudtur,avibase-DC3050A9,Ruddy Turnstone,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6161,NA
+Arenaria melanocephala,Shorebirds,blktur,avibase-0413ED30,Black Turnstone,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6164,NA
+Calidris canutus,Shorebirds,redkno,avibase-B5CE8FAD,Red Knot,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6166,NA
+Calidris pugnax,Shorebirds,ruff,avibase-2DABF98F,Ruff,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6177,NA
+Calidris acuminata,Shorebirds,shtsan,avibase-A0A67A81,Sharp-tailed Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6181,NA
+Calidris ferruginea,Shorebirds,cursan,avibase-143A681C,Curlew Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6182,NA
+Calidris himantopus,Shorebirds,stisan,avibase-ECDE73F2,Stilt Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6183,NA
+Calidris alba,Shorebirds,sander,avibase-06B9BD24,Sanderling,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6189,NA
+Calidris alpina,Shorebirds,dunlin,avibase-15369E8E,Dunlin,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6192,NA
+Calidris bairdii,Shorebirds,baisan,avibase-1F1AD154,Baird's Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6217,NA
+Calidris minutilla,Shorebirds,leasan,avibase-A47B0BD4,Least Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6226,NA
+Calidris melanotos,Shorebirds,pecsan,avibase-ACC99F35,Pectoral Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6227,NA
+Calidris mauri,Shorebirds,wessan,avibase-01060BFD,Western Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6231,NA
+Calidris pusilla,Shorebirds,semsan,avibase-F35821AA,Semipalmated Sandpiper,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6232,NA
+Stercorarius parasiticus,Seabirds,parjae,avibase-39086887,Parasitic Jaeger,Charadriiformes,Stercorariidae,Skuas and Jaegers,species,6361,NA
+Stercorarius pomarinus,Seabirds,pomjae,avibase-7CB8F5B7,Pomarine Jaeger,Charadriiformes,Stercorariidae,Skuas and Jaegers,species,6363,NA
+Cerorhinca monocerata,Seabirds,rhiauk,avibase-53D94597,Rhinoceros Auklet,Charadriiformes,Alcidae,"Auks, Murres, and Puffins",species,6377,NA
+Cepphus columba,Seabirds,piggui,avibase-2F5DF476,Pigeon Guillemot,Charadriiformes,Alcidae,"Auks, Murres, and Puffins",species,6404,NA
+Uria aalge,Seabirds,commur,avibase-39F29B55,Common Murre,Charadriiformes,Alcidae,"Auks, Murres, and Puffins",species,6424,NA
+Synthliboramphus antiquus,Seabirds,ancmur,avibase-ACA4FEFE,Ancient Murrelet,Charadriiformes,Alcidae,"Auks, Murres, and Puffins",species,6433,NA
+Hydrocoloeus minutus,Gulls & Terns,litgul,avibase-F89FD6E3,Little Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6447,NA
+Rissa tridactyla,Gulls & Terns,bklkit,avibase-FB4D08F0,Black-legged Kittiwake,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6449,NA
+Xema sabini,Gulls & Terns,sabgul,avibase-86182656,Sabine's Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6455,NA
+Chroicocephalus philadelphia,Gulls & Terns,bongul,avibase-0337440E,Bonaparte's Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6462,NA
+Chroicocephalus ridibundus,Gulls & Terns,bkhgul,avibase-FB02DD96,Black-headed Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6474,NA
+Leucophaeus atricilla,Gulls & Terns,laugul,avibase-6CDC3C9C,Laughing Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6490,NA
+Leucophaeus pipixcan,Gulls & Terns,fragul,avibase-57C93A74,Franklin's Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6494,NA
+Larus heermanni,Gulls & Terns,heegul,avibase-6996D540,Heermann's Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6512,NA
+Larus brachyrhynchus,Gulls & Terns,mewgul2,avibase-342F6965,Short-billed Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6519,NA
+Larus canus/brachyrhynchus,Gulls & Terns,y00441,avibase-0C290EA6,Common/Short-billed Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",slash,6520,NA
+Larus delawarensis,Gulls & Terns,ribgul,avibase-23863F65,Ring-billed Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6521,NA
+Larus occidentalis,Gulls & Terns,wesgul,avibase-575A3E3B,Western Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6528,NA
+Larus hyperboreus,Gulls & Terns,glagul,avibase-A59FA446,Glaucous Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6566,NA
+Larus californicus,Gulls & Terns,calgul,avibase-7FCE8A43,California Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6591,NA
+Larus glaucescens,Gulls & Terns,glwgul,avibase-03AC32BA,Glaucous-winged Gull,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6596,NA
+Larus occidentalis x glaucescens,Gulls & Terns,x00051,avibase-48386568,Western x Glaucous-winged Gull (hybrid),Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",hybrid,6597,NA
+Larus glaucoides thayeri,Gulls & Terns,thagul,avibase-69E83944,Iceland Gull (Thayer's),Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",issf,6607,y00478
+Rynchops niger,Gulls & Terns,blkski,avibase-88AB027C,Black Skimmer,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6622,NA
+Sternula antillarum,Gulls & Terns,leater1,avibase-BE78E765,Least Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6699,NA
+Hydroprogne caspia,Gulls & Terns,caster1,avibase-BC06BC0D,Caspian Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6718,NA
+Chlidonias niger,Gulls & Terns,blkter,avibase-115AF02D,Black Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6725,NA
+Sterna forsteri,Gulls & Terns,forter,avibase-D13B9122,Forster's Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6731,NA
+Sterna paradisaea,Gulls & Terns,arcter,avibase-BDC5CF80,Arctic Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6733,NA
+Sterna hirundo,Gulls & Terns,comter,avibase-4D2FF6F1,Common Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6748,NA
+Thalasseus elegans,Gulls & Terns,eleter1,avibase-3F9E1C51,Elegant Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6780,NA
+Thalasseus albididorsalis/maximus,Gulls & Terns,y00387,avibase-68EDCC23,West African Crested/Royal Tern,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",slash,6791,NA
+Podilymbus podiceps,Waterfowl & Friends,pibgre,avibase-9A8E55D0,Pied-billed Grebe,Podicipediformes,Podicipedidae,Grebes,species,6855,NA
+Podiceps auritus,Waterfowl & Friends,horgre,avibase-018B3169,Horned Grebe,Podicipediformes,Podicipedidae,Grebes,species,6866,NA
+Podiceps grisegena,Waterfowl & Friends,rengre,avibase-1CBD2CED,Red-necked Grebe,Podicipediformes,Podicipedidae,Grebes,species,6869,NA
+Podiceps nigricollis,Waterfowl & Friends,eargre,avibase-32DCEC14,Eared Grebe,Podicipediformes,Podicipedidae,Grebes,species,6876,NA
+Aechmophorus occidentalis,Waterfowl & Friends,wesgre,avibase-C6E1197B,Western Grebe,Podicipediformes,Podicipedidae,Grebes,species,6888,NA
+Aechmophorus clarkii,Waterfowl & Friends,clagre,avibase-D05FFEF7,Clark's Grebe,Podicipediformes,Podicipedidae,Grebes,species,6891,NA
+Gavia stellata,Waterfowl & Friends,retloo,avibase-6C50988A,Red-throated Loon,Gaviiformes,Gaviidae,Loons,species,6927,NA
+Gavia arctica,Waterfowl & Friends,arcloo,avibase-CA5852BE,Arctic Loon,Gaviiformes,Gaviidae,Loons,species,6928,NA
+Gavia pacifica,Waterfowl & Friends,pacloo,avibase-B7D7EF23,Pacific Loon,Gaviiformes,Gaviidae,Loons,species,6931,NA
+Gavia immer,Waterfowl & Friends,comloo,avibase-7E022378,Common Loon,Gaviiformes,Gaviidae,Loons,species,6933,NA
+Gavia adamsii,Waterfowl & Friends,yebloo,avibase-5349255D,Yellow-billed Loon,Gaviiformes,Gaviidae,Loons,species,6934,NA
+Phoebastria nigripes,Seabirds,bkfalb,avibase-EE8ECB1D,Black-footed Albatross,Procellariiformes,Diomedeidae,Albatrosses,species,6988,NA
+Fulmarus glacialis,Seabirds,norful,avibase-049D9AEA,Northern Fulmar,Procellariiformes,Procellariidae,Shearwaters and Petrels,species,7090,NA
+Pterodroma cookii,Seabirds,coopet,avibase-5C61DD1B,Cook's Petrel,Procellariiformes,Procellariidae,Shearwaters and Petrels,species,7145,NA
+Ardenna creatopus,Seabirds,pifshe,avibase-9A77D2B0,Pink-footed Shearwater,Procellariiformes,Procellariidae,Shearwaters and Petrels,species,7205,NA
+Ardenna grisea,Seabirds,sooshe,avibase-1725B07D,Sooty Shearwater,Procellariiformes,Procellariidae,Shearwaters and Petrels,species,7213,NA
+Puffinus puffinus,Seabirds,manshe,avibase-5AEDC002,Manx Shearwater,Procellariiformes,Procellariidae,Shearwaters and Petrels,species,7220,NA
+Puffinus opisthomelas,Seabirds,bkvshe,avibase-4FC153E1,Black-vented Shearwater,Procellariiformes,Procellariidae,Shearwaters and Petrels,species,7234,NA
+Nannopterum auritum,Cormorants,doccor,avibase-3AC46C54,Double-crested Cormorant,Suliformes,Phalacrocoracidae,Cormorants and Shags,species,7424,NA
+Plegadis chihi,"Herons, Egrets, Ibis",whfibi,avibase-FD2B0309,White-faced Ibis,Pelecaniformes,Threskiornithidae,Ibises and Spoonbills,species,7468,NA
+Platalea ajaja,"Herons, Egrets, Ibis",rosspo1,avibase-70924157,Roseate Spoonbill,Pelecaniformes,Threskiornithidae,Ibises and Spoonbills,species,7533,NA
+Botaurus lentiginosus,"Herons, Egrets, Ibis",amebit,avibase-13E9F9B4,American Bittern,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7560,NA
+Botaurus exilis,"Herons, Egrets, Ibis",leabit,avibase-0B361ED8,Least Bittern,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7565,NA
+Nyctanassa violacea,"Herons, Egrets, Ibis",ycnher,avibase-C6772490,Yellow-crowned Night Heron,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7591,NA
+Nycticorax nycticorax,"Herons, Egrets, Ibis",bcnher,avibase-6BB94D7E,Black-crowned Night Heron,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7600,NA
+Egretta caerulea,"Herons, Egrets, Ibis",libher,avibase-11512CF4,Little Blue Heron,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7629,NA
+Egretta tricolor,"Herons, Egrets, Ibis",triher,avibase-031409C7,Tricolored Heron,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7630,NA
+Egretta rufescens,"Herons, Egrets, Ibis",redegr,avibase-D8A24A3E,Reddish Egret,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7634,NA
+Egretta thula,"Herons, Egrets, Ibis",snoegr,avibase-AA7901D8,Snowy Egret,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7645,NA
+Butorides virescens,"Herons, Egrets, Ibis",grnher,avibase-86D45B8F,Green Heron,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7704,NA
+Ardea ibis/coromanda,"Herons, Egrets, Ibis",categr,avibase-6CCDAC53,Western/Eastern Cattle-Egret,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",slash,7727,NA
+Ardea alba,"Herons, Egrets, Ibis",greegr,avibase-49D9148A,Great Egret,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7729,NA
+Ardea herodias,"Herons, Egrets, Ibis",grbher3,avibase-93694BB5,Great Blue Heron,Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",species,7753,NA
+Coragyps atratus,Raptors,blkvul,avibase-4FF7DE80,Black Vulture,Cathartiformes,Cathartidae,New World Vultures,species,7811,NA
+Cathartes aura,Raptors,turvul,avibase-36B3872D,Turkey Vulture,Cathartiformes,Cathartidae,New World Vultures,species,7815,NA
+Pandion haliaetus,Raptors,osprey,avibase-1327AC55,Osprey,Accipitriformes,Pandionidae,Osprey,species,7832,NA
+Elanus leucurus,Raptors,whtkit,avibase-CAA5E106,White-tailed Kite,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,7843,NA
+Aquila chrysaetos,Raptors,goleag,avibase-5F8E7CA8,Golden Eagle,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8064,NA
+Accipiter striatus,Raptors,shshaw,avibase-3B024163,Sharp-shinned Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8256,NA
+Astur cooperii,Raptors,coohaw,avibase-EB98812F,Cooper's Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8278,NA
+Circus hudsonius,Raptors,norhar2,avibase-A091D50A,Northern Harrier,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8324,NA
+Circus cyaneus/hudsonius,Raptors,norhar,avibase-82745BAA,Hen/Northern Harrier,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",slash,8325,NA
+Haliaeetus leucocephalus,Raptors,baleag,avibase-FED3756C,Bald Eagle,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8367,NA
+Buteo lineatus,Raptors,reshaw,avibase-EA4D6C0B,Red-shouldered Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8487,NA
+Buteo albonotatus,Raptors,zothaw,avibase-597D7DD6,Zone-tailed Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8498,NA
+Buteo jamaicensis,Raptors,rethaw,avibase-536A5157,Red-tailed Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8506,NA
+Buteo regalis,Raptors,ferhaw,avibase-BA9191BC,Ferruginous Hawk,Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",species,8535,NA
+Tyto furcata,Raptors,brnowl,avibase-6B54759B,American Barn Owl,Strigiformes,Tytonidae,Barn-Owls,species,8633,NA
+Bubo virginianus,Raptors,grhowl,avibase-FC366114,Great Horned Owl,Strigiformes,Strigidae,Owls,species,8910,NA
+Bubo virginianus/magellanicus,Raptors,y01197,avibase-34D6EE78,Great/Lesser Horned Owl,Strigiformes,Strigidae,Owls,slash,8929,NA
+Athene cunicularia,Raptors,burowl,avibase-B9EE9676,Burrowing Owl,Strigiformes,Strigidae,Owls,species,9133,NA
+Asio flammeus,Raptors,sheowl,avibase-8F123A11,Short-eared Owl,Strigiformes,Strigidae,Owls,species,9276,NA
+Megaceryle alcyon,Kingfishers,belkin1,avibase-3558066B,Belted Kingfisher,Coraciiformes,Alcedinidae,Kingfishers,species,10306,NA
+Sphyrapicus thyroideus,Insectivores - Terrestrial,wilsap,avibase-28A4DA76,Williamson's Sapsucker,Piciformes,Picidae,Woodpeckers,species,11123,NA
+Sphyrapicus varius,Insectivores - Terrestrial,yebsap,avibase-9BE68BD3,Yellow-bellied Sapsucker,Piciformes,Picidae,Woodpeckers,species,11126,NA
+Sphyrapicus nuchalis,Insectivores - Terrestrial,rensap,avibase-20F4B01D,Red-naped Sapsucker,Piciformes,Picidae,Woodpeckers,species,11127,NA
+Sphyrapicus ruber,Insectivores - Terrestrial,rebsap,avibase-52F63879,Red-breasted Sapsucker,Piciformes,Picidae,Woodpeckers,species,11130,NA
+Melanerpes formicivorus,Insectivores - Terrestrial,acowoo,avibase-7E327303,Acorn Woodpecker,Piciformes,Picidae,Woodpeckers,species,11146,NA
+Dryobates pubescens,Insectivores - Terrestrial,dowwoo,avibase-1B2A6386,Downy Woodpecker,Piciformes,Picidae,Woodpeckers,species,11400,NA
+Dryobates nuttallii,Insectivores - Terrestrial,nutwoo,avibase-FA087E52,Nuttall's Woodpecker,Piciformes,Picidae,Woodpeckers,species,11410,NA
+Leuconotopicus villosus,Insectivores - Terrestrial,haiwoo,avibase-9D06AF89,Hairy Woodpecker,Piciformes,Picidae,Woodpeckers,species,11427,NA
+Colaptes auratus,Insectivores - Terrestrial,norfli,avibase-FF9D71AF,Northern Flicker,Piciformes,Picidae,Woodpeckers,species,11900,NA
+Falco sparverius,Raptors,amekes,avibase-20C2214E,American Kestrel,Falconiformes,Falconidae,Falcons and Caracaras,species,12028,NA
+Falco columbarius,Raptors,merlin,avibase-F3DA111C,Merlin,Falconiformes,Falconidae,Falcons and Caracaras,species,12062,NA
+Falco peregrinus,Raptors,perfal,avibase-47E58408,Peregrine Falcon,Falconiformes,Falconidae,Falcons and Caracaras,species,12114,NA
+Falco mexicanus,Raptors,prafal,avibase-BBFF0963,Prairie Falcon,Falconiformes,Falconidae,Falcons and Caracaras,species,12136,NA
+Contopus cooperi,Insectivores - Aerial,olsfly,avibase-951C150C,Olive-sided Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16890,NA
+Contopus sordidulus,Insectivores - Aerial,wewpew,avibase-F6CA75F0,Western Wood-Pewee,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16912,NA
+Empidonax traillii,Insectivores - Aerial,wilfly,avibase-5BC4E0EF,Willow Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16952,NA
+Empidonax minimus,Insectivores - Aerial,leafly,avibase-F5837054,Least Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16963,NA
+Empidonax hammondii,Insectivores - Aerial,hamfly,avibase-1EB2595E,Hammond's Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16964,NA
+Empidonax wrightii,Insectivores - Aerial,gryfly,avibase-DACF7A98,Gray Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16965,NA
+Empidonax difficilis,Insectivores - Aerial,wesfly,avibase-B12B8816,Western Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16975,NA
+Empidonax difficilis [difficilis Group],Insectivores - Aerial,pasfly,avibase-44A20283,Western Flycatcher (Pacific-slope),Passeriformes,Tyrannidae,Tyrant Flycatchers,issf,16976,wesfly
+Sayornis nigricans,Insectivores - Aerial,blkpho,avibase-B182DED2,Black Phoebe,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,16998,NA
+Sayornis phoebe,Insectivores - Aerial,easpho,avibase-62CA2AF8,Eastern Phoebe,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17007,NA
+Sayornis saya,Insectivores - Aerial,saypho,avibase-28669A3D,Say's Phoebe,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17010,NA
+Pyrocephalus rubinus,Insectivores - Aerial,verfly,avibase-1456993D,Vermilion Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17029,NA
+Myiarchus tuberculifer,Insectivores - Aerial,ducfly,avibase-3D57A982,Dusky-capped Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17284,NA
+Myiarchus cinerascens,Insectivores - Aerial,astfly,avibase-E0A04985,Ash-throated Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17323,NA
+Myiodynastes luteiventris,Insectivores - Aerial,subfly,avibase-9DBB70D5,Sulphur-bellied Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17438,NA
+Tyrannus melancholicus,Insectivores - Aerial,trokin,avibase-BB6B236F,Tropical Kingbird,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17452,NA
+Tyrannus vociferans,Insectivores - Aerial,caskin,avibase-178B8955,Cassin's Kingbird,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17461,NA
+Tyrannus verticalis,Insectivores - Aerial,weskin,avibase-2281F1C7,Western Kingbird,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17467,NA
+Tyrannus tyrannus,Insectivores - Aerial,easkin,avibase-082D833C,Eastern Kingbird,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17472,NA
+Tyrannus forficatus,Insectivores - Aerial,sctfly,avibase-6F65F82B,Scissor-tailed Flycatcher,Passeriformes,Tyrannidae,Tyrant Flycatchers,species,17489,NA
+Vireo huttoni,Insectivores - Terrestrial,hutvir,avibase-1BDF5C00,Hutton's Vireo,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,19204,NA
+Lanius ludovicianus,Raptors,logshr,avibase-36171C2B,Loggerhead Shrike,Passeriformes,Laniidae,Shrikes,species,21091,NA
+Aphelocoma californica,Omnivores,cowscj1,avibase-151C2B3F,California Scrub-Jay,Passeriformes,Corvidae,"Crows, Jays, and Magpies",species,21303,NA
+Aphelocoma californica/woodhouseii,Omnivores,wesjay,avibase-D9741E94,California/Woodhouse's Scrub-Jay,Passeriformes,Corvidae,"Crows, Jays, and Magpies",slash,21320,NA
+Corvus brachyrhynchos,Omnivores,amecro,avibase-69544B59,American Crow,Passeriformes,Corvidae,"Crows, Jays, and Magpies",species,21557,NA
+Corvus corax,Omnivores,comrav,avibase-B9B272F4,Common Raven,Passeriformes,Corvidae,"Crows, Jays, and Magpies",species,21624,NA
+Poecile gambeli,Insectivores - Terrestrial,mouchi,avibase-DE0971C1,Mountain Chickadee,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",species,22077,NA
+Poecile rufescens,Insectivores - Terrestrial,chbchi,avibase-FF592882,Chestnut-backed Chickadee,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",species,22094,NA
+Baeolophus inornatus,Insectivores - Terrestrial,oaktit,avibase-715D4DDE,Oak Titmouse,Passeriformes,Paridae,"Tits, Chickadees, and Titmice",species,22150,NA
+Eremophila alpestris,Seed & Fruit Eaters,horlar,avibase-FC0A1D95,Horned Lark,Passeriformes,Alaudidae,Larks,species,22710,NA
+Tachycineta bicolor,Insectivores - Aerial,treswa,avibase-BBA2F9DF,Tree Swallow,Passeriformes,Hirundinidae,Swallows,species,24064,NA
+Tachycineta thalassina,Insectivores - Aerial,vigswa,avibase-75DC49AD,Violet-green Swallow,Passeriformes,Hirundinidae,Swallows,species,24074,NA
+Progne subis,Insectivores - Aerial,purmar,avibase-ACB9D1C6,Purple Martin,Passeriformes,Hirundinidae,Swallows,species,24081,NA
+Stelgidopteryx serripennis,Insectivores - Aerial,nrwswa,avibase-2C1981BB,Northern Rough-winged Swallow,Passeriformes,Hirundinidae,Swallows,species,24106,NA
+Hirundo rustica,Insectivores - Aerial,barswa,avibase-58C502EA,Barn Swallow,Passeriformes,Hirundinidae,Swallows,species,24187,NA
+Petrochelidon pyrrhonota,Insectivores - Aerial,cliswa,avibase-F5C181CA,Cliff Swallow,Passeriformes,Hirundinidae,Swallows,species,24281,NA
+Psaltriparus minimus,Insectivores - Terrestrial,bushti,avibase-AE37ED4D,Bushtit,Passeriformes,Aegithalidae,Long-tailed Tits,species,25253,NA
+Chamaea fasciata,Insectivores - Terrestrial,wrenti,avibase-989B57D8,Wrentit,Passeriformes,Paradoxornithidae,Parrotbills,species,25431,NA
+Zosterops simplex,Insectivores - Terrestrial,swiwhe1,avibase-B1AC8066,Swinhoe's White-eye,Passeriformes,Zosteropidae,"White-eyes, Yuhinas, and Allies",species,25619,NA
+Corthylio calendula,Insectivores - Terrestrial,ruckin,avibase-B60B1166,Ruby-crowned Kinglet,Passeriformes,Regulidae,Kinglets,species,26844,NA
+Regulus satrapa,Insectivores - Terrestrial,gockin,avibase-154BCCAE,Golden-crowned Kinglet,Passeriformes,Regulidae,Kinglets,species,26848,NA
+Sitta carolinensis,Insectivores - Terrestrial,whbnut,avibase-19CCBBD2,White-breasted Nuthatch,Passeriformes,Sittidae,Nuthatches,species,26889,NA
+Sitta pygmaea,Insectivores - Terrestrial,pygnut,avibase-BD0914CB,Pygmy Nuthatch,Passeriformes,Sittidae,Nuthatches,species,26924,NA
+Sitta canadensis,Insectivores - Terrestrial,rebnut,avibase-0716A71C,Red-breasted Nuthatch,Passeriformes,Sittidae,Nuthatches,species,26937,NA
+Certhia americana,Insectivores - Terrestrial,brncre,avibase-BAC33609,Brown Creeper,Passeriformes,Certhiidae,Treecreepers,species,27026,NA
+Polioptila caerulea,Insectivores - Terrestrial,buggna,avibase-A15C5071,Blue-gray Gnatcatcher,Passeriformes,Polioptilidae,Gnatcatchers,species,27123,NA
+Salpinctes obsoletus,Insectivores - Terrestrial,rocwre,avibase-76DF73A9,Rock Wren,Passeriformes,Troglodytidae,Wrens,species,27150,NA
+Catherpes mexicanus,Insectivores - Terrestrial,canwre,avibase-EAD14427,Canyon Wren,Passeriformes,Troglodytidae,Wrens,species,27184,NA
+Troglodytes aedon,Insectivores - Terrestrial,houwre,avibase-A4F5C5C8,Northern House Wren,Passeriformes,Troglodytidae,Wrens,species,27191,NA
+Troglodytes pacificus,Insectivores - Terrestrial,pacwre1,avibase-CF5B7A9D,Pacific Wren,Passeriformes,Troglodytidae,Wrens,species,27288,NA
+Troglodytes hiemalis,Insectivores - Terrestrial,winwre3,avibase-C757BD95,Winter Wren,Passeriformes,Troglodytidae,Wrens,species,27295,NA
+Cistothorus palustris,Insectivores - Terrestrial,marwre,avibase-787E0536,Marsh Wren,Passeriformes,Troglodytidae,Wrens,species,27329,NA
+Thryomanes bewickii,Insectivores - Terrestrial,bewwre,avibase-603194D3,Bewick's Wren,Passeriformes,Troglodytidae,Wrens,species,27362,NA
+Sturnus vulgaris,Insectivores - Terrestrial,eursta,avibase-94A44032,European Starling,Passeriformes,Sturnidae,Starlings,species,27813,NA
+Toxostoma redivivum,Insectivores - Terrestrial,calthr,avibase-20748450,California Thrasher,Passeriformes,Mimidae,Mockingbirds and Thrashers,species,28054,NA
+Mimus polyglottos,Omnivores,normoc,avibase-7EFF698D,Northern Mockingbird,Passeriformes,Mimidae,Mockingbirds and Thrashers,species,28114,NA
+Sialia mexicana,Insectivores - Terrestrial,wesblu,avibase-AC2B812A,Western Bluebird,Passeriformes,Turdidae,Thrushes and Allies,species,28136,NA
+Sialia currucoides,Insectivores - Terrestrial,moublu,avibase-97B870B4,Mountain Bluebird,Passeriformes,Turdidae,Thrushes and Allies,species,28144,NA
+Catharus guttatus,Insectivores - Terrestrial,herthr,avibase-B01E8BD4,Hermit Thrush,Passeriformes,Turdidae,Thrushes and Allies,species,28333,NA
+Turdus migratorius,Insectivores - Terrestrial,amerob,avibase-D77E4B41,American Robin,Passeriformes,Turdidae,Thrushes and Allies,species,28633,NA
+Bombycilla cedrorum,Seed & Fruit Eaters,cedwax,avibase-9437D635,Cedar Waxwing,Passeriformes,Bombycillidae,Waxwings,species,29888,NA
+Lonchura punctulata,Seed & Fruit Eaters,nutman,avibase-6D4F72B1,Scaly-breasted Munia,Passeriformes,Estrildidae,Waxbills and Allies,species,31076,NA
+Passer domesticus,Omnivores,houspa,avibase-240E3390,House Sparrow,Passeriformes,Passeridae,Old World Sparrows,species,31534,NA
+Anthus rubescens,Insectivores - Terrestrial,amepip,avibase-CDA2E56B,American Pipit,Passeriformes,Motacillidae,Wagtails and Pipits,species,31883,NA
+Haemorhous mexicanus,Seed & Fruit Eaters,houfin,avibase-89431E9F,House Finch,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,32310,NA
+Haemorhous purpureus,Seed & Fruit Eaters,purfin,avibase-B4EE123D,Purple Finch,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,32324,NA
+Spinus psaltria,Seed & Fruit Eaters,lesgol,avibase-CD5C21CA,Lesser Goldfinch,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,32609,NA
+Spinus tristis,Seed & Fruit Eaters,amegfi,avibase-C9ABA616,American Goldfinch,Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",species,32617,NA
+Spizella passerina,Seed & Fruit Eaters,chispa,avibase-37E9CCDA,Chipping Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,32990,NA
+Spizella pallida,Seed & Fruit Eaters,clcspa,avibase-486265CF,Clay-colored Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,32996,NA
+Chondestes grammacus,Seed & Fruit Eaters,larspa,avibase-78509A5D,Lark Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33029,NA
+Passerella iliaca,Insectivores - Terrestrial,foxspa,avibase-3A7B1F59,Fox Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33099,NA
+Junco hyemalis,Seed & Fruit Eaters,daejun,avibase-05FF3C9B,Dark-eyed Junco,Passeriformes,Passerellidae,New World Sparrows,species,33124,NA
+Zonotrichia leucophrys,Insectivores - Terrestrial,whcspa,avibase-8601A467,White-crowned Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33187,NA
+Zonotrichia atricapilla,Insectivores - Terrestrial,gocspa,avibase-BD61BDEC,Golden-crowned Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33196,NA
+Passerculus sandwichensis,Insectivores - Terrestrial,savspa,avibase-31CE00C7,Savannah Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33244,NA
+Passerculus sandwichensis [guttatus Group],Insectivores - Terrestrial,bldspa,avibase-3C974C47,Savannah Sparrow (Belding's),Passeriformes,Passerellidae,New World Sparrows,issf,33260,savspa
+Melospiza melodia,Insectivores - Terrestrial,sonspa,avibase-A5F09E05,Song Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33277,NA
+Melospiza lincolnii,Insectivores - Terrestrial,linspa,avibase-AF49F890,Lincoln's Sparrow,Passeriformes,Passerellidae,New World Sparrows,species,33310,NA
+Melozone crissalis,Omnivores,caltow,avibase-B745D852,California Towhee,Passeriformes,Passerellidae,New World Sparrows,species,33350,NA
+Pipilo maculatus,Omnivores,spotow,avibase-58E25701,Spotted Towhee,Passeriformes,Passerellidae,New World Sparrows,species,33386,NA
+Icteria virens,Insectivores - Terrestrial,yebcha,avibase-734C73A9,Yellow-breasted Chat,Passeriformes,Icteriidae,Yellow-breasted Chat,species,33559,NA
+Xanthocephalus xanthocephalus,Insectivores - Terrestrial,yehbla,avibase-3E2D0C9B,Yellow-headed Blackbird,Passeriformes,Icteridae,Troupials and Allies,species,33563,NA
+Sturnella neglecta,Insectivores - Terrestrial,wesmea,avibase-4A5B4883,Western Meadowlark,Passeriformes,Icteridae,Troupials and Allies,species,33565,NA
+Icterus cucullatus,Insectivores - Terrestrial,hooori,avibase-526A3692,Hooded Oriole,Passeriformes,Icteridae,Troupials and Allies,species,33682,NA
+Icterus bullockii,Insectivores - Terrestrial,bulori,avibase-7E65A952,Bullock's Oriole,Passeriformes,Icteridae,Troupials and Allies,species,33736,NA
+Agelaius phoeniceus,Insectivores - Terrestrial,rewbla,avibase-C86D078E,Red-winged Blackbird,Passeriformes,Icteridae,Troupials and Allies,species,33779,NA
+Molothrus ater,Seed & Fruit Eaters,bnhcow,avibase-1E1AB415,Brown-headed Cowbird,Passeriformes,Icteridae,Troupials and Allies,species,33833,NA
+Euphagus cyanocephalus,Omnivores,brebla,avibase-EA5E858A,Brewer's Blackbird,Passeriformes,Icteridae,Troupials and Allies,species,33851,NA
+Quiscalus mexicanus,Insectivores - Terrestrial,grtgra,avibase-5CBA3391,Great-tailed Grackle,Passeriformes,Icteridae,Troupials and Allies,species,33864,NA
+Helmitheros vermivorum,Insectivores - Terrestrial,woewar1,avibase-295C4CD6,Worm-eating Warbler,Passeriformes,Parulidae,New World Warblers,species,33950,NA
+Mniotilta varia,Insectivores - Terrestrial,bawwar,avibase-4D207AF6,Black-and-white Warbler,Passeriformes,Parulidae,New World Warblers,species,33962,NA
+Leiothlypis peregrina,Insectivores - Terrestrial,tenwar,avibase-D204A930,Tennessee Warbler,Passeriformes,Parulidae,New World Warblers,species,33972,NA
+Leiothlypis celata,Insectivores - Terrestrial,orcwar,avibase-FFF61080,Orange-crowned Warbler,Passeriformes,Parulidae,New World Warblers,species,33973,NA
+Leiothlypis luciae,Insectivores - Terrestrial,lucwar,avibase-E8EB3C96,Lucy's Warbler,Passeriformes,Parulidae,New World Warblers,species,33980,NA
+Leiothlypis ruficapilla,Insectivores - Terrestrial,naswar,avibase-183E5F90,Nashville Warbler,Passeriformes,Parulidae,New World Warblers,species,33981,NA
+Leiothlypis virginiae,Insectivores - Terrestrial,virwar,avibase-A97F14D0,Virginia's Warbler,Passeriformes,Parulidae,New World Warblers,species,33986,NA
+Geothlypis tolmiei,Insectivores - Terrestrial,macwar,avibase-85106518,MacGillivray's Warbler,Passeriformes,Parulidae,New World Warblers,species,34005,NA
+Geothlypis trichas,Insectivores - Terrestrial,comyel,avibase-BA4C8A02,Common Yellowthroat,Passeriformes,Parulidae,New World Warblers,species,34028,NA
+Setophaga ruticilla,Insectivores - Terrestrial,amered,avibase-BED38F50,American Redstart,Passeriformes,Parulidae,New World Warblers,species,34058,NA
+Setophaga tigrina,Insectivores - Terrestrial,camwar,avibase-DB20CB6B,Cape May Warbler,Passeriformes,Parulidae,New World Warblers,species,34060,NA
+Setophaga americana,Insectivores - Terrestrial,norpar,avibase-41062654,Northern Parula,Passeriformes,Parulidae,New World Warblers,species,34063,NA
+Setophaga magnolia,Insectivores - Terrestrial,magwar,avibase-1E82CE1E,Magnolia Warbler,Passeriformes,Parulidae,New World Warblers,species,34079,NA
+Setophaga aestiva,Insectivores - Terrestrial,yelwar1,avibase-B64C749B,Northern Yellow Warbler,Passeriformes,Parulidae,New World Warblers,species,34087,NA
+Setophaga aestiva/petechia,Insectivores - Terrestrial,yelwar,avibase-A6C0C4A9,Northern/Mangrove Yellow Warbler,Passeriformes,Parulidae,New World Warblers,slash,34132,NA
+Setophaga pensylvanica,Insectivores - Terrestrial,chswar,avibase-7AB1229B,Chestnut-sided Warbler,Passeriformes,Parulidae,New World Warblers,species,34133,NA
+Setophaga striata,Insectivores - Terrestrial,bkpwar,avibase-544A5E6B,Blackpoll Warbler,Passeriformes,Parulidae,New World Warblers,species,34138,NA
+Setophaga palmarum,Insectivores - Terrestrial,palwar,avibase-4AAEF549,Palm Warbler,Passeriformes,Parulidae,New World Warblers,species,34148,NA
+Setophaga coronata,Insectivores - Terrestrial,yerwar,avibase-BC5A9498,Yellow-rumped Warbler,Passeriformes,Parulidae,New World Warblers,species,34159,NA
+Setophaga coronata auduboni,Insectivores - Terrestrial,audwar,avibase-631CB970,Yellow-rumped Warbler (Audubon's),Passeriformes,Parulidae,New World Warblers,issf,34161,yerwar
+Setophaga discolor,Insectivores - Terrestrial,prawar,avibase-E36325FA,Prairie Warbler,Passeriformes,Parulidae,New World Warblers,species,34185,NA
+Setophaga graciae,Insectivores - Terrestrial,grawar,avibase-946DCF53,Grace's Warbler,Passeriformes,Parulidae,New World Warblers,species,34194,NA
+Setophaga nigrescens,Insectivores - Terrestrial,btywar,avibase-6B7A93C5,Black-throated Gray Warbler,Passeriformes,Parulidae,New World Warblers,species,34200,NA
+Setophaga townsendi,Insectivores - Terrestrial,towwar,avibase-F6C6C3F7,Townsend's Warbler,Passeriformes,Parulidae,New World Warblers,species,34206,NA
+Setophaga occidentalis,Insectivores - Terrestrial,herwar,avibase-0EB07C12,Hermit Warbler,Passeriformes,Parulidae,New World Warblers,species,34210,NA
+Cardellina canadensis,Insectivores - Terrestrial,canwar,avibase-F2D675AF,Canada Warbler,Passeriformes,Parulidae,New World Warblers,species,34344,NA
+Cardellina pusilla,Insectivores - Terrestrial,wlswar,avibase-1F09CCCC,Wilson's Warbler,Passeriformes,Parulidae,New World Warblers,species,34346,NA
+Myioborus pictus,Insectivores - Terrestrial,paired,avibase-3255D987,Painted Redstart,Passeriformes,Parulidae,New World Warblers,species,34357,NA
+Piranga ludoviciana,Insectivores - Terrestrial,westan,avibase-0ADA5F17,Western Tanager,Passeriformes,Cardinalidae,Cardinals and Allies,species,34439,NA
+Pheucticus melanocephalus,Seed & Fruit Eaters,bkhgro,avibase-824361E5,Black-headed Grosbeak,Passeriformes,Cardinalidae,Cardinals and Allies,species,34559,NA
+Passerina caerulea,Seed & Fruit Eaters,blugrb1,avibase-A7A75EA1,Blue Grosbeak,Passeriformes,Cardinalidae,Cardinals and Allies,species,34598,NA
+Passerina amoena,Insectivores - Terrestrial,lazbun,avibase-9F67F3AF,Lazuli Bunting,Passeriformes,Cardinalidae,Cardinals and Allies,species,34606,NA
+NA,Raptors,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Shorebirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Hummingbirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Shorebirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Raptors,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Shorebirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Shorebirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Insectivores - Aerial,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Waterfowl & Friends,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Insectivores - Aerial,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Seed & Fruit Eaters,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Hummingbirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Insectivores - Aerial,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Omnivores,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Shorebirds,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Raptors,NA,NA,NA,NA,NA,NA,NA,NA,NA
