@@ -7,7 +7,7 @@ See overview of the campus lagoon ecosystem and restoration efforts there: <http
 
 # Data
 
--   Monthly surveys following the current protocol began in 2019 at Campus Lagoon
+-   Monthly surveys following the current protocol began in December 2017 at Campus Lagoon
 -   See eScholarship data description here: <https://escholarship.org/uc/item/47q7s0gb>
 -   Individual data files are saved to ArcGIS Online: <https://ucsb.maps.arcgis.com/home/group.html?id=5196673ce5ea4d68882435ddc2f8ae3f#overview>
 
