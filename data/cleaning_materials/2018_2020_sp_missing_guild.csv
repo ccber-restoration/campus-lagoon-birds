@@ -1,0 +1,14 @@
+common_name,species_code,taxon_concept_id,scientific_name,order,family,family_common,category,taxonomic_order,report_as,extinct
+Surfbird,surfbi,avibase-11CF8C9A,Calidris virgata,Charadriiformes,Scolopacidae,Sandpipers and Allies,species,6174,NA,FALSE
+peep sp.,calidr,avibase-69A488E1,Calidris sp. (peep sp.),Charadriiformes,Scolopacidae,Sandpipers and Allies,spuh,6235,NA,NA
+Royal Tern,royter1,avibase-719935EF,Thalasseus maximus,Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",species,6789,NA,FALSE
+Brandt's Cormorant,bracor,avibase-987A703D,Urile penicillatus,Suliformes,Phalacrocoracidae,Cormorants and Shags,species,7389,NA,FALSE
+American White Pelican,amwpel,avibase-866903B9,Pelecanus erythrorhynchos,Pelecaniformes,Pelecanidae,Pelicans,species,7791,NA,FALSE
+Brown Pelican,brnpel,avibase-F59AB6B3,Pelecanus occidentalis,Pelecaniformes,Pelecanidae,Pelicans,species,7792,NA,FALSE
+falcon sp.,falcon,avibase-A28F0D10,Falco sp.,Falconiformes,Falconidae,Falcons and Caracaras,spuh,12141,NA,NA
+Tyrannus sp.,tyrann1,avibase-4BFE8C78,Tyrannus sp.,Passeriformes,Tyrannidae,Tyrant Flycatchers,spuh,17500,NA,NA
+Western Warbling Vireo,wewvir2,avibase-8E6E7C64,Vireo swainsoni,Passeriformes,Vireonidae,"Vireos, Shrike-Babblers, and Erpornis",species,19247,NA,FALSE
+Brown Thrasher,brnthr,avibase-C8F9F2D0,Toxostoma rufum,Passeriformes,Mimidae,Mockingbirds and Thrashers,species,28037,NA,FALSE
+Lark Bunting,larbun,avibase-938C5572,Calamospiza melanocorys,Passeriformes,Passerellidae,New World Sparrows,species,33032,NA,FALSE
+tanager sp. (Piranga sp.),pirang1,avibase-1F7E09D1,Piranga sp.,Passeriformes,Cardinalidae,Cardinals and Allies,spuh,34458,NA,NA
+bird sp.,bird1,avibase-AF0D818A,Aves sp.,NA,NA,NA,spuh,35853,NA,NA
