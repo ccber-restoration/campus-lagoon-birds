@@ -280,13 +280,20 @@ sp_2018_2020_fixed <- cl_2018_2020_missing_count_fixed |>
 # see if any fail to match to guild list
 sp_missing_guild <- anti_join(sp_2018_2020_fixed, guilds)
 
+# join guilds into survey data 
+cl_2018_2020_w_guilds <- cl_2018_2020_missing_count_fixed |> 
+  # join ebird_taxonomy
+  left_join(ebird_taxonomy) |> 
+  # koin guilds (joins by ebird_taxonomy fields)
+  left_join(guilds)
+
 # only did this once:
 # write_csv(sp_missing_guild, "data/cleaning_materials/2018_2020_sp_missing_guild.csv")
 
 # check distribution of timestamps ----
-ggplot(cl_2018_2020_missing_count_fixed, aes(x = as.POSIXct(format(time, format = "%H:%M:%S"), format = "%H:%M:%S"))) +
+ggplot(cl_2018_2020_w_guilds, aes(x = as.POSIXct(format(time, format = "%H:%M:%S"), format = "%H:%M:%S"))) +
   geom_histogram(bins = 24, fill = "darkgreen", color = "white") +
   labs(title = "Time Distribution", x = "Time of Day", y = "Count")
 
-# write revised combined file to file
-write_csv(cl_2018_2020_missing_count_fixed, "data/Combined_2018_2020.csv")
+# write revised combined file to file ---
+write_csv(cl_2018_2020_w_guilds, "data/Combined_2018_2020.csv")
