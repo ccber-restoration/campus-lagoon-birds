@@ -241,7 +241,9 @@ chk_missing_counts <- cl_2018_2020_missing_sp_fixed |>
 # join and coalesce
 cl_2018_2020_missing_count_fixed <- cl_2018_2020_missing_sp_fixed |>
   left_join(chk_missing_counts, by = join_by(objectid, global_id, date, time, common_name, count)) |> 
-  mutate(count = coalesce(count, count_fix))
+  mutate(count = coalesce(count, count_fix)) |> 
+  # remove extra column
+  select(-count_fix)
   
 # recheck missing counts
 chk_missing_counts <- cl_2018_2020_missing_count_fixed |>  
