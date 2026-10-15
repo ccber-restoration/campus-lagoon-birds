@@ -24,7 +24,7 @@ survey_data_2018_2020_sf <- st_as_sf(survey_data_2018_2020,
                                      coords = c("longitude", "latitude"),
                                      crs = 4326 ) |> 
   # example filtering by species
-  filter(common_name == "Spotted Sandpiper")
+  filter(general_type == "Shorebirds")
 
 mapview(survey_data_2018_2020_sf)
 
