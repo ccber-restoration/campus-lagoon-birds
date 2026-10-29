@@ -12,6 +12,14 @@ library(sf) # simple features package for vector data
 
 library(mapview) # simple interactive maps
 
+#installing more packages!
+install.packages(c("gstat", "stars"))
+
+library(gstat)
+
+library(stars)
+
+
 # 2. Load data ----
 
 
@@ -80,6 +88,12 @@ mapview(shorebirds_2018_2020_sf)
 
 # Then, once you have a filtered point data set, you could rasterize the data or do some interpolation (kriging) to make inferences about the entire study area.
 
+#checking stuff
+names(survey_data_2018_2020)
+
+glimpse(survey_data_2018_2020)
+
+summary(shorebirds_2018_2020_sf)
 
 
 
