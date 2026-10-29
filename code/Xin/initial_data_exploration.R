@@ -20,13 +20,50 @@ library(mapview) # simple interactive maps
 survey_data_2018_2020 <- read_csv("data/Combined_2018_2020.csv") |> 
   filter(!is.na(latitude))
 
+# this converts the dataframe to a spatial (simple features) object
 survey_data_2018_2020_sf <- st_as_sf(survey_data_2018_2020, 
                                      coords = c("longitude", "latitude"),
-                                     crs = 4326 ) |> 
+                                     crs = 4326 )
+
+# Filtering out flyovers
+survey_data_no_flyovers_2018_2020_sf <- survey_data_2018_2020_sf %>% 
+  # filtering out 
+  filter(substrate != "Flyover",substrate !="Air")
+#^ In assuming air as a flyover
+
+# Filter to just Shorebirds
+shorebirds_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
   # example filtering by species
   filter(general_type == "Shorebirds")
 
-mapview(survey_data_2018_2020_sf)
+# Filter to just Waders: Herons, Egrets, Ibis
+waders_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
+  # example filtering by species
+  filter(general_type == "Herons, Egrets, Ibis")
+
+# Filter to just Waterfowl (Ducks, Geese, and Other Swimming Birds)
+waterfowl_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
+  # example filtering by species
+  filter(general_type == "Waterfowl & Friends")
+
+# Filter to just Waterfowl (Ducks, Geese, and Other Swimming Birds)
+waterfowl_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
+  # example filtering by species
+  filter(general_type == "Waterfowl & Friends")
+
+# Filter to just Insectivores - Aerial
+# Filter to just Insectivores - Terrestrial
+# Filter to just Seed & Fruit Eaters
+# Filter to just Cormorants
+# Filter to just Kingfishers
+# Filter to just Gulls & Terns
+# Filter to just Omnivores
+# Filter to just Raptors
+# Filter to just Hummingbirds
+
+
+#mapview
+mapview(shorebirds_2018_2020_sf)
 
 # Next steps:
 
