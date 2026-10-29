@@ -12,52 +12,84 @@ library(sf) # simple features package for vector data
 
 library(mapview) # simple interactive maps
 
-#installing more packages!
-install.packages(c("gstat", "stars"))
+# installing more packages!
+# install.packages(c("gstat", "stars"))
 
-library(gstat)
+library(gstat) 
 
-library(stars)
+library(stars) 
 
 
 # 2. Load data ----
 
 
 # load combined data for 2018-2020
-
 survey_data_2018_2020 <- read_csv("data/Combined_2018_2020.csv") |> 
   filter(!is.na(latitude))
+
+# checking stuff
+
+# check column names 
+names(survey_data_2018_2020)
+
+# see column types and a sample of the data values
+glimpse(survey_data_2018_2020)
+
 
 # this converts the dataframe to a spatial (simple features) object
 survey_data_2018_2020_sf <- st_as_sf(survey_data_2018_2020, 
                                      coords = c("longitude", "latitude"),
                                      crs = 4326 )
 
+
+# summarize observations by substrate
+
+summary_substrate <- survey_data_2018_2020_sf |> 
+  group_by(substrate) |> 
+  summarize(n = n()) |> 
+  arrange(n)
+
 # Filtering out flyovers
 survey_data_no_flyovers_2018_2020_sf <- survey_data_2018_2020_sf %>% 
-  # filtering out 
-  filter(substrate != "Flyover",substrate !="Air")
-#^ In assuming air as a flyover
+  # filtering out flyovers and "air," assuming most "air" were actually flyovers
+  filter(is.na(substrate) | substrate != "Flyover" & substrate !="Air") 
+         
+    
+# after filtering out flyover and "air" observations, re-check which substrates are included:
+unique(survey_data_no_flyovers_2018_2020_sf$substrate)
+
+# check on map 
+mapview(survey_data_no_flyovers_2018_2020_sf, map.type = "Esri.WorldImagery")
+
 
 # Filter to just Shorebirds
 shorebirds_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
   # example filtering by species
   filter(general_type == "Shorebirds")
 
+mapview(shorebirds_2018_2020_sf)
+# ~3 shorebirds in middle of lagoon, but had not been recorded with substrate = flyover or air
+
+# check shorebird subset summary
+summary(shorebirds_2018_2020_sf)
+
+
 # Filter to just Waders: Herons, Egrets, Ibis
 waders_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
   # example filtering by species
   filter(general_type == "Herons, Egrets, Ibis")
 
-# Filter to just Waterfowl (Ducks, Geese, and Other Swimming Birds)
-waterfowl_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
-  # example filtering by species
-  filter(general_type == "Waterfowl & Friends")
+# check map
+mapview(waders_2018_2020_sf)
 
 # Filter to just Waterfowl (Ducks, Geese, and Other Swimming Birds)
 waterfowl_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>% 
   # example filtering by species
   filter(general_type == "Waterfowl & Friends")
+
+mapview(waterfowl_2018_2020_sf, map.type = "Esri.WorldImagery")
+
+# TODO- Of these, probably the most relevant are Cormorants, Kingfishers, and Gulls & Terns (but Gulls and Terns are often flying)
 
 # Filter to just Insectivores - Aerial
 # Filter to just Insectivores - Terrestrial
@@ -69,31 +101,12 @@ waterfowl_2018_2020_sf <- survey_data_no_flyovers_2018_2020_sf %>%
 # Filter to just Raptors
 # Filter to just Hummingbirds
 
-
-#mapview
-mapview(shorebirds_2018_2020_sf)
-
 # Next steps:
-
-# filter out flyovers!
-
-# filter by  species functional group:
-
-## (1) shorebirds
-## (2) waders (herons, egrets)
-## (3) waterfowl (ducks, geese, and other swimming birds)
 
 
 # Clip points to the perimeter of the lagoon (exclude upland observations), with a buffer (distance TBD, but maybe ~ 5 m). This will require projecting first.
 
 # Then, once you have a filtered point data set, you could rasterize the data or do some interpolation (kriging) to make inferences about the entire study area.
-
-#checking stuff
-names(survey_data_2018_2020)
-
-glimpse(survey_data_2018_2020)
-
-summary(shorebirds_2018_2020_sf)
 
 
 
